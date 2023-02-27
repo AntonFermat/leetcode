@@ -1,4 +1,4 @@
-package leetcode.p0100.p0075;
+package leetcode.p0000.p0075;
 
 public class EditDistance {
     public int minDistance(String w1, String w2) {
