@@ -1,4 +1,4 @@
-package leetcode.p0400;
+package leetcode.p0400.p0427;
 
 public class ConstructQuadTree {
 
@@ -32,7 +32,7 @@ public class ConstructQuadTree {
         return true;
     }
 
-    private class Node {
+    private static class Node {
         public boolean val;
         public boolean isLeaf;
         public Node topLeft;
