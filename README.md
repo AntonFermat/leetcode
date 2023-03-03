@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>March</b></td>
   </tr>
   <tr>
+    <td>2023.03.03</td>
+    <td>0028</td>
+    <td><a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/">Find the Index of the First Occurrence in a String</a></td>
+    <td><a href="src/main/java/leetcode/p0000/p0023/FindTheIndexOfTheFirstOccurrenceInAString.java">Java</a>,
+<a href="src/main/kotlin/leetcode/p0000/p0023/FindTheIndexOfTheFirstOccurrenceInAString.kts">Kotlin</a></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.03.02</td>
     <td>0443</td>
     <td><a href="https://leetcode.com/problems/string-compression/">String Compression</a></td>
