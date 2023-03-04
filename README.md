@@ -16,6 +16,14 @@ LeetCode
   </tr>
   <tr>
     <td>2023.03.03</td>
+    <td>2444</td>
+    <td><a href="https://leetcode.com/problems/count-subarrays-with-fixed-bounds/">Count Subarrays With Fixed Bounds</a></td>
+    <td><a href="src/main/java/leetcode/p2000/p2444/CountSubarraysWithFixedBounds.java">Java</a>,
+<a href="src/main/kotlin/leetcode/p2000/p2444/CountSubarraysWithFixedBounds.kts">Kotlin</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2023.03.03</td>
     <td>0028</td>
     <td><a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/">Find the Index of the First Occurrence in a String</a></td>
     <td><a href="src/main/java/leetcode/p0000/p0023/FindTheIndexOfTheFirstOccurrenceInAString.java">Java</a>,

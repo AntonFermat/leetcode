@@ -1,1 +1,1 @@
-./src/main/java/leetcode/p0100/p0121/README.md
+/data/prj/github/leetcode/src/main/java/leetcode/p0100/p0121/README.md
