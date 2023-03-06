@@ -16,6 +16,13 @@ LeetCode
   </tr>
   <tr>
     <td>2023.03.05</td>
+    <td>1539</td>
+    <td><a href="https://leetcode.com/problems/kth-missing-positive-number/">Kth Missing Positive Number</a></td>
+    <td><a href="src/main/java/leetcode/p1500/p1539/README.md">Java</a>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2023.03.05</td>
     <td>1345</td>
     <td><a href="https://leetcode.com/problems/jump-game-iv/">Jump Game IV</a></td>
     <td><a href="src/main/java/leetcode/p1300/p1345/JumpGameIV.java">Java</a>
