@@ -15,10 +15,17 @@ LeetCode
     <td colspan="5"><b>March</b></td>
   </tr>
   <tr>
-    <td>2023.03.05</td>
+    <td>2023.03.07</td>
+    <td>2187</td>
+    <td><a href="https://leetcode.com/problems/minimum-time-to-complete-trips/">Minimum Time to Complete Trips</a></td>
+    <td><a href="src/main/java/leetcode/p2100/p2187/MinimumTimeToCompleteTrips.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2023.03.06</td>
     <td>1539</td>
     <td><a href="https://leetcode.com/problems/kth-missing-positive-number/">Kth Missing Positive Number</a></td>
-    <td><a href="src/main/java/leetcode/p1500/p1539/README.md">Java</a>
+    <td><a href="src/main/java/leetcode/p1500/p1539/KthMissingPositiveNumber.java">Java</a>
     <td></td>
   </tr>
   <tr>
