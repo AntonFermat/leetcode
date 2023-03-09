@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>March</b></td>
   </tr>
   <tr>
+    <td>2023.03.08</td>
+    <td>875</td>
+    <td><a href="https://leetcode.com/problems/koko-eating-bananas/">Koko Eating Bananas</a></td>
+    <td><a href="src/main/java/leetcode/p0800/p0875/KokoEatingBananas.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.03.07</td>
     <td>2187</td>
     <td><a href="https://leetcode.com/problems/minimum-time-to-complete-trips/">Minimum Time to Complete Trips</a></td>
