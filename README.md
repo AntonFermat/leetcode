@@ -14,9 +14,17 @@ LeetCode
   <tr>
     <td colspan="5"><b>March</b></td>
   </tr>
+
+  <tr>
+    <td>2023.03.09</td>
+    <td>0142</td>
+    <td><a href="https://leetcode.com/problems/linked-list-cycle-ii/">Linked List Cycle II</a></td>
+    <td><a href="src/main/java/leetcode/p0100/p0142/LinkedListCycleII.java">Java</a>
+    <td></td>
+  </tr>
   <tr>
     <td>2023.03.08</td>
-    <td>875</td>
+    <td>0875</td>
     <td><a href="https://leetcode.com/problems/koko-eating-bananas/">Koko Eating Bananas</a></td>
     <td><a href="src/main/java/leetcode/p0800/p0875/KokoEatingBananas.java">Java</a>
     <td></td>
