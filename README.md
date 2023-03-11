@@ -16,6 +16,13 @@ LeetCode
   </tr>
 
   <tr>
+    <td>2023.03.10</td>
+    <td>0382</td>
+    <td><a href="https://leetcode.com/problems/linked-list-random-node/">Linked List Random Node</a></td>
+    <td><a href="src/main/java/leetcode/p0300/p0382/LinkedListRandomNode.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.03.09</td>
     <td>0142</td>
     <td><a href="https://leetcode.com/problems/linked-list-cycle-ii/">Linked List Cycle II</a></td>
