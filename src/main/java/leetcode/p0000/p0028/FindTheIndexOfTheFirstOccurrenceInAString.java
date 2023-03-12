@@ -1,4 +1,4 @@
-package leetcode.p0000.p0023;
+package leetcode.p0000.p0028;
 
 public class FindTheIndexOfTheFirstOccurrenceInAString {
     public int strStr(String haystack, String needle) {
