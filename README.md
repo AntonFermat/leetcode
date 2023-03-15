@@ -16,6 +16,13 @@ LeetCode
   </tr>
 
   <tr>
+    <td>2023.03.15</td>
+    <td>0958</td>
+    <td><a href="https://leetcode.com/problems/check-completeness-of-a-binary-tree/">Check Completeness of a Binary Tree</a></td>
+    <td><a href="src/main/java/leetcode/p0900/p0958/CheckCompletenessOfABinaryTree.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.03.14</td>
     <td>0129</td>
     <td><a href="https://leetcode.com/problems/sum-root-to-leaf-numbers/">Sum Root to Leaf Numbers</a></td>
