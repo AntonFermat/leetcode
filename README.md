@@ -16,6 +16,13 @@ LeetCode
   </tr>
 
   <tr>
+    <td>2023.03.18</td>
+    <td>1472</td>
+    <td><a href="https://leetcode.com/problems/design-browser-history/">Construct Binary Tree from Inorder and Postorder Traversal</a></td>
+    <td><a href="src/main/java/leetcode/p1400/p1472/BrowserHistory.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.03.17</td>
     <td>0208</td>
     <td><a href="https://leetcode.com/problems/implement-trie-prefix-tree/">Construct Binary Tree from Inorder and Postorder Traversal</a></td>
