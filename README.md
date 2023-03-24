@@ -16,8 +16,15 @@ LeetCode
   </tr>
 
   <tr>
+    <td>2023.03.17</td>
+    <td>0208</td>
+    <td><a href="https://leetcode.com/problems/implement-trie-prefix-tree/">Construct Binary Tree from Inorder and Postorder Traversal</a></td>
+    <td><a href="src/main/java/leetcode/p0200/p0208/ImplementTriePrefixTree.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.03.16</td>
-    <td>0109</td>
+    <td>0106</td>
     <td><a href="https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/">Construct Binary Tree from Inorder and Postorder Traversal</a></td>
     <td><a href="src/main/java/leetcode/p0100/p0109/ConvertSortedListToBinarySearchTree.java">Java</a>
     <td></td>
