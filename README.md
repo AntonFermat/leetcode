@@ -16,6 +16,13 @@ LeetCode
   </tr>
 
   <tr>
+    <td>2023.03.19</td>
+    <td>0211</td>
+    <td><a href="">Design Add and Search Words Data Structure</a></td>
+    <td><a href="src/main/java/leetcode/p0200/p0211/WordDictionary.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.03.18</td>
     <td>1472</td>
     <td><a href="https://leetcode.com/problems/design-browser-history/">Construct Binary Tree from Inorder and Postorder Traversal</a></td>
