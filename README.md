@@ -16,6 +16,13 @@ LeetCode
   </tr>
 
   <tr>
+    <td>2023.03.21</td>
+    <td>2348</td>
+    <td><a href="https://leetcode.com/problems/number-of-zero-filled-subarrays/">Number of Zero-Filled Subarrays</a></td>
+    <td><a href="src/main/java/leetcode/p2300/p2348/NumberOfZeroFilledSubarrays.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.03.20</td>
     <td>0605</td>
     <td><a href="https://leetcode.com/problems/can-place-flowers/">Can Place Flowers</a></td>
