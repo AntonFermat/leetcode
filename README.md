@@ -16,9 +16,16 @@ LeetCode
   </tr>
 
   <tr>
+    <td>2023.03.20</td>
+    <td>0605</td>
+    <td><a href="https://leetcode.com/problems/can-place-flowers/">Can Place Flowers</a></td>
+    <td><a href="src/main/java/leetcode/p0600/p0605/CanPlaceFlowers.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.03.19</td>
     <td>0211</td>
-    <td><a href="">Design Add and Search Words Data Structure</a></td>
+    <td><a href="https://leetcode.com/problems/design-add-and-search-words-data-structure/">Design Add and Search Words Data Structure</a></td>
     <td><a href="src/main/java/leetcode/p0200/p0211/WordDictionary.java">Java</a>
     <td></td>
   </tr>
