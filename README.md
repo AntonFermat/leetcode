@@ -14,7 +14,13 @@ LeetCode
 <tr>
     <td colspan="5"><b>April</b></td>
   </tr>
-  
+  <tr>
+    <td>2023.04.02</td>
+    <td>2300</td>
+    <td><a href="https://leetcode.com/problems/successful-pairs-of-spells-and-potions/">Successful Pairs of Spells and Potions</a></td>
+    <td><a href="src/main/java/leetcode/p2300/p2300/SuccessfulPairsOfSpellsAndPotions.java">Java</a>
+    <td></td>
+  </tr>
   <tr>
     <td>2023.04.01</td>
     <td>0704</td>
