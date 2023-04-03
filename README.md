@@ -62,21 +62,22 @@ LeetCode
   <tr>
     <td>2023.03.18</td>
     <td>1472</td>
-    <td><a href="https://leetcode.com/problems/design-browser-history/">Construct Binary Tree from Inorder and Postorder Traversal</a></td>
+    <td><a href="https://leetcode.com/problems/design-browser-history/">Design Browser History</a></td>
     <td><a href="src/main/java/leetcode/p1400/p1472/BrowserHistory.java">Java</a>
     <td></td>
   </tr>
   <tr>
     <td>2023.03.17</td>
     <td>0208</td>
-    <td><a href="https://leetcode.com/problems/implement-trie-prefix-tree/">Construct Binary Tree from Inorder and Postorder Traversal</a></td>
-    <td><a href="src/main/java/leetcode/p0200/p0208/ImplementTriePrefixTree.java">Java</a>
+    <td><a href="https://leetcode.com/problems/implement-trie-prefix-tree/">Implement Trie (Prefix Tree)</a></td>
+    <td><a href="src/main/java/leetcode/p0200/p0208/Trie.java">Java</a>
     <td></td>
   </tr>
   <tr>
     <td>2023.03.16</td>
     <td>0106</td>
-    <td><a href="https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/">Construct Binary Tree from Inorder and Postorder Traversal</a></td>
+    <td><a href="https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/">Convert Sorted List to
+Binary Search Tree</a></td>
     <td><a href="src/main/java/leetcode/p0100/p0109/ConvertSortedListToBinarySearchTree.java">Java</a>
     <td></td>
   </tr>
