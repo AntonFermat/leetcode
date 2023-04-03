@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>April</b></td>
   </tr>
   <tr>
+    <td>2023.04.03</td>
+    <td>0881</td>
+    <td><a href="https://leetcode.com/problems/boats-to-save-people/">Boats to Save People</a></td>
+    <td><a href="src/main/java/leetcode/p0800/p0881/BoatsToSavePeople.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.04.02</td>
     <td>2300</td>
     <td><a href="https://leetcode.com/problems/successful-pairs-of-spells-and-potions/">Successful Pairs of Spells and Potions</a></td>
