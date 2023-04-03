@@ -11,10 +11,20 @@ LeetCode
     <td>Solution</td>
     <td>Video</td>
   </tr>
+<tr>
+    <td colspan="5"><b>April</b></td>
+  </tr>
+  
+  <tr>
+    <td>2023.04.01</td>
+    <td>0704</td>
+    <td><a href="https://leetcode.com/problems/binary-search/">Binary Search</a></td>
+    <td><a href="src/main/java/leetcode/p0700/p0704/BinarySearch.java">Java</a>
+    <td></td>
+  </tr>
   <tr>
     <td colspan="5"><b>March</b></td>
   </tr>
-
   <tr>
     <td>2023.03.21</td>
     <td>2348</td>
