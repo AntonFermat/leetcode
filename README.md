@@ -14,6 +14,14 @@ LeetCode
 <tr>
     <td colspan="5"><b>April</b></td>
   </tr>
+
+  <tr>
+    <td>2023.04.04</td>
+    <td>2405</td>
+    <td><a href="https://leetcode.com/problems/optimal-partition-of-string/">Optimal Partition of String</a></td>
+    <td><a href="src/main/java/leetcode/p2400/p2405/OptimalPartitionOfString.java">Java</a>
+    <td></td>
+  </tr>
   <tr>
     <td>2023.04.03</td>
     <td>0881</td>
