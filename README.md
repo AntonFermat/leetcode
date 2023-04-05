@@ -16,6 +16,13 @@ LeetCode
   </tr>
 
   <tr>
+    <td>2023.04.05</td>
+    <td>2439</td>
+    <td><a href="https://leetcode.com/problems/minimize-maximum-of-array/">Minimize Maximum of Array</a></td>
+    <td><a href="src/main/java/leetcode/p2400/p2439/MinimizeMaximumOfArray.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.04.04</td>
     <td>2405</td>
     <td><a href="https://leetcode.com/problems/optimal-partition-of-string/">Optimal Partition of String</a></td>
