@@ -16,6 +16,13 @@ LeetCode
   </tr>
 
   <tr>
+    <td>2023.04.07</td>
+    <td>1020</td>
+    <td><a href="https://leetcode.com/problems/number-of-enclaves/">Number of Enclaves</a></td>
+    <td><a href="src/main/java/leetcode/p1000/p1020/NumberOfEnclaves.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.04.06</td>
     <td>1254</td>
     <td><a href="https://leetcode.com/problems/number-of-closed-islands/">Number of Closed Islands</a></td>
