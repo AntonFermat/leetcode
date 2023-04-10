@@ -14,7 +14,13 @@ LeetCode
 <tr>
     <td colspan="5"><b>April</b></td>
   </tr>
-
+  <tr>
+    <td>2023.04.10</td>
+    <td>0020</td>
+    <td><a href="https://leetcode.com/problems/valid-parentheses/">Valid Parentheses</a></td>
+    <td><a href="src/main/java/leetcode/p0000/p0020/ValidParentheses.java">Java</a>
+    <td></td>
+  </tr>
   <tr>
     <td>2023.04.08</td>
     <td>0133</td>
