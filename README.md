@@ -22,6 +22,13 @@ LeetCode
     <td></td>
   </tr>
   <tr>
+    <td>2023.04.09</td>
+    <td>1857</td>
+    <td><a href="https://leetcode.com/problems/largest-color-value-in-a-directed-graph/">Largest Color Value in a Directed Graph</a></td>
+    <td><a href="src/main/java/leetcode/p1800/p1857/LargestColorValueInDirectedGraph.java">Java</a>
+    <td></td>
+  </tr>  
+    <tr>
     <td>2023.04.08</td>
     <td>0133</td>
     <td><a href="https://leetcode.com/problems/clone-graph/">Clone Graph</a></td>
