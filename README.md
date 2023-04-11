@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>April</b></td>
   </tr>
   <tr>
+    <td>2023.04.11</td>
+    <td>2390</td>
+    <td><a href="https://leetcode.com/problems/removing-stars-from-a-string/">Removing Stars From a String</a></td>
+    <td><a href="src/main/java/leetcode/p2300/p2390/RemovingStarsFromAString.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.04.10</td>
     <td>0020</td>
     <td><a href="https://leetcode.com/problems/valid-parentheses/">Valid Parentheses</a></td>
