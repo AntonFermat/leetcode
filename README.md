@@ -11,8 +11,15 @@ LeetCode
     <td>Solution</td>
     <td>Video</td>
   </tr>
-<tr>
+  <tr>
     <td colspan="5"><b>April</b></td>
+  </tr>
+  <tr>
+    <td>2023.04.12</td>
+    <td>0071</td>
+    <td><a href="https://leetcode.com/problems/simplify-path/">Simplify Path</a></td>
+    <td><a href="src/main/java/leetcode/p0000/p0071/SimplifyPath.java">Java</a>
+    <td></td>
   </tr>
   <tr>
     <td>2023.04.11</td>
