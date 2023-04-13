@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>April</b></td>
   </tr>
   <tr>
+    <td>2023.04.13</td>
+    <td>0946</td>
+    <td><a href="https://leetcode.com/problems/validate-stack-sequences/">Validate Stack Sequences</a></td>
+    <td><a href="src/main/java/leetcode/p0900/p0946/ValidateStackSequences.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.04.12</td>
     <td>0071</td>
     <td><a href="https://leetcode.com/problems/simplify-path/">Simplify Path</a></td>
