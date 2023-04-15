@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>April</b></td>
   </tr>
   <tr>
+    <td>2023.04.14</td>
+    <td>0516</td>
+    <td><a href="https://leetcode.com/problems/longest-palindromic-subsequence/">Longest Palindromic Subsequence</a></td>
+    <td><a href="src/main/java/leetcode/p0500/p0516/LongestPalindromicSubsequence.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.04.13</td>
     <td>0946</td>
     <td><a href="https://leetcode.com/problems/validate-stack-sequences/">Validate Stack Sequences</a></td>
