@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>April</b></td>
   </tr>
   <tr>
+    <td>2023.04.15</td>
+    <td>2218</td>
+    <td><a href="https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/">Maximum Value of K Coins From Piles</a></td>
+    <td><a href="src/main/java/leetcode/p2200/p2218/MaximumValueOfKCoinsFromPiles.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.04.14</td>
     <td>0516</td>
     <td><a href="https://leetcode.com/problems/longest-palindromic-subsequence/">Longest Palindromic Subsequence</a></td>
