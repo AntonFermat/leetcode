@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>April</b></td>
   </tr>
   <tr>
+    <td>2023.04.16</td>
+    <td>1639</td>
+    <td><a href="https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/">Number of Ways to Form a Target String Given a Dictionary</a></td>
+    <td><a href="src/main/java/leetcode/p1600/p1639/NumberOfWaysToFormATargetStringGivenADictionary.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.04.15</td>
     <td>2218</td>
     <td><a href="https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/">Maximum Value of K Coins From Piles</a></td>
