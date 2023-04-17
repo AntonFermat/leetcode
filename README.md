@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>April</b></td>
   </tr>
   <tr>
+    <td>2023.04.17</td>
+    <td>1431</td>
+    <td><a href="https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/">Kids With the Greatest Number of Candies</a></td>
+    <td><a href="src/main/java/leetcode/p1400/p1431/KidsWithTheGreatestNumberOfCandies.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.04.16</td>
     <td>1639</td>
     <td><a href="https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/">Number of Ways to Form a Target String Given a Dictionary</a></td>
