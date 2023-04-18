@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>April</b></td>
   </tr>
   <tr>
+    <td>2023.04.18</td>
+    <td>1768</td>
+    <td><a href="https://leetcode.com/problems/merge-strings-alternately/">Merge Strings Alternately</a></td>
+    <td><a href="src/main/java/leetcode/p1700/p1768/MergeStringsAlternately.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.04.17</td>
     <td>1431</td>
     <td><a href="https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/">Kids With the Greatest Number of Candies</a></td>
