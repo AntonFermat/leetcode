@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>April</b></td>
   </tr>
   <tr>
+    <td>2023.04.20</td>
+    <td>0662</td>
+    <td><a href="https://leetcode.com/problems/maximum-width-of-binary-tree/">Maximum Width of Binary Tree</a></td>
+    <td><a href="src/main/java/leetcode/p0600/p0662/MaximumWidthOfBinaryTree.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.04.19</td>
     <td>1372</td>
     <td><a href="https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/">Longest ZigZag Path in a Binary Tree</a></td>
