@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>April</b></td>
   </tr>
   <tr>
+    <td>2023.04.19</td>
+    <td>1372</td>
+    <td><a href="https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/">Longest ZigZag Path in a Binary Tree</a></td>
+    <td><a href="src/main/java/leetcode/p1300/p1372/LongestZigZagPathInABinaryTree.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.04.18</td>
     <td>1768</td>
     <td><a href="https://leetcode.com/problems/merge-strings-alternately/">Merge Strings Alternately</a></td>
