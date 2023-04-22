@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>April</b></td>
   </tr>
   <tr>
+    <td>2023.04.21</td>
+    <td>0879</td>
+    <td><a href="https://leetcode.com/problems/profitable-schemes/">Profitable Schemes</a></td>
+    <td><a href="src/main/java/leetcode/p0800/p0879/ProfitableSchemes.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.04.20</td>
     <td>0662</td>
     <td><a href="https://leetcode.com/problems/maximum-width-of-binary-tree/">Maximum Width of Binary Tree</a></td>
