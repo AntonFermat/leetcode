@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>April</b></td>
   </tr>
   <tr>
+    <td>2023.04.23</td>
+    <td>1416</td>
+    <td><a href="https://leetcode.com/problems/restore-the-array/description/">1416. Restore The Array</a></td>
+    <td><a href="src/main/java/leetcode/p1400/p1416/RestoreTheArray.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.04.22</td>
     <td>1312</td>
     <td><a href="https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/">Minimum Insertion Steps to Make a String Palindrome</a></td>
