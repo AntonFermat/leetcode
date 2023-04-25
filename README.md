@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>April</b></td>
   </tr>
   <tr>
+    <td>2023.04.25</td>
+    <td>2336</td>
+    <td><a href="https://leetcode.com/problems/smallest-number-in-infinite-set/">Smallest Number in Infinite Set</a></td>
+    <td><a href="src/main/java/leetcode/p2300/p2336/SmallestInfiniteSet.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.04.24</td>
     <td>1046</td>
     <td><a href="https://leetcode.com/problems/last-stone-weight/">1046. Last Stone Weight</a></td>
