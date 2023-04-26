@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>April</b></td>
   </tr>
   <tr>
+    <td>2023.04.26</td>
+    <td>0258</td>
+    <td><a href="https://leetcode.com/problems/add-digits/">Add Digits</a></td>
+    <td><a href="src/main/java/leetcode/p0200/p0258/AddDigits.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.04.25</td>
     <td>2336</td>
     <td><a href="https://leetcode.com/problems/smallest-number-in-infinite-set/">Smallest Number in Infinite Set</a></td>

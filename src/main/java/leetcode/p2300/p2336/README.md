@@ -1,4 +1,4 @@
-<h2><a href="">2336. Smallest Number in Infinite Set</a></h2>
+<h2><a href="https://leetcode.com/problems/smallest-number-in-infinite-set/">2336. Smallest Number in Infinite Set</a></h2>
 <h3>Medium</h3>
 
 <p>You have a set which contains all positive integers <code>[1, 2, 3, 4, 5, ...]</code>.</p>
