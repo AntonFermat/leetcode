@@ -16,6 +16,13 @@ LeetCode
   </tr>
   <tr>
     <td>2023.04.26</td>
+    <td>0319</td>
+    <td><a href="https://leetcode.com/problems/bulb-switcher/">Bulb Switcher</a></td>
+    <td><a href="src/main/java/leetcode/p0300/p0319/BulbSwitcher.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2023.04.26</td>
     <td>0258</td>
     <td><a href="https://leetcode.com/problems/add-digits/">Add Digits</a></td>
     <td><a href="src/main/java/leetcode/p0200/p0258/AddDigits.java">Java</a>
