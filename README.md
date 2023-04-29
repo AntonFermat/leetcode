@@ -15,9 +15,16 @@ LeetCode
     <td colspan="5"><b>April</b></td>
   </tr>
   <tr>
+    <td>2023.04.29</td>
+    <td>1697</td>
+    <td><a href="https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/">Checking Existence of Edge Length Limited Paths</a></td>
+    <td><a href="src/main/java/leetcode/p1600/p1697/CheckingExistenceOfEdgeLengthLimitedPaths.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.04.28</td>
     <td>0839</td>
-    <td><a href="https://leetcode.com/problems/similar-string-groups/description/">Similar String Groups</a></td>
+    <td><a href="https://leetcode.com/problems/similar-string-groups/">Similar String Groups</a></td>
     <td><a href="src/main/java/leetcode/p0800/p0839/SimilarStringGroups.java">Java</a>
     <td></td>
   </tr>
