@@ -15,7 +15,14 @@ LeetCode
     <td colspan="5"><b>April</b></td>
   </tr>
   <tr>
-    <td>2023.04.26</td>
+    <td>2023.04.28</td>
+    <td>0839</td>
+    <td><a href="https://leetcode.com/problems/similar-string-groups/description/">Similar String Groups</a></td>
+    <td><a href="src/main/java/leetcode/p0800/p0839/SimilarStringGroups.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2023.04.27</td>
     <td>0319</td>
     <td><a href="https://leetcode.com/problems/bulb-switcher/">Bulb Switcher</a></td>
     <td><a href="src/main/java/leetcode/p0300/p0319/BulbSwitcher.java">Java</a>
