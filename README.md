@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>April</b></td>
   </tr>
   <tr>
+    <td>2023.04.30</td>
+    <td>1579</td>
+    <td><a href="https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/">Remove Max Number of Edges to Keep Graph Fully Traversable</a></td>
+    <td><a href="src/main/java/leetcode/p1500/p1579/RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.04.29</td>
     <td>1697</td>
     <td><a href="https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/">Checking Existence of Edge Length Limited Paths</a></td>
