@@ -12,6 +12,16 @@ LeetCode
     <td>Video</td>
   </tr>
   <tr>
+    <td colspan="5"><b>May</b></td>
+  </tr>
+  <tr>
+    <td>2023.05.01</td>
+    <td>1491</td>
+    <td><a href="https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/">Average Salary Excluding the Minimum and Maximum Salary</a></td>
+    <td><a href="src/main/java/leetcode/p1400/p1491/AverageSalaryExcludingTheMinimumAndMaximumSalary.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td colspan="5"><b>April</b></td>
   </tr>
   <tr>
