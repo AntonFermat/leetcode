@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>May</b></td>
   </tr>
   <tr>
+    <td>2023.05.04</td>
+    <td>0649</td>
+    <td><a href="https://leetcode.com/problems/dota2-senate/">Dota2 Senate</a></td>
+    <td><a href="src/main/java/leetcode/p0600/p0649/Dota2Senate.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.05.03</td>
     <td>2215</td>
     <td><a href="https://leetcode.com/problems/find-the-difference-of-two-arrays/">Find the Difference of Two Arrays</a></td>
