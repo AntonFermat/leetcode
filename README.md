@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>May</b></td>
   </tr>
   <tr>
+    <td>2023.05.03</td>
+    <td>2215</td>
+    <td><a href="https://leetcode.com/problems/find-the-difference-of-two-arrays/">Find the Difference of Two Arrays</a></td>
+    <td><a href="src/main/java/leetcode/p2200/p2215/FindTheDifferenceOfTwoArrays.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.05.02</td>
     <td>1822</td>
     <td><a href="https://leetcode.com/problems/sign-of-the-product-of-an-array/">Sign of the Product of an Array</a></td>
