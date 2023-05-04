@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>May</b></td>
   </tr>
   <tr>
+    <td>2023.05.02</td>
+    <td>1822</td>
+    <td><a href="https://leetcode.com/problems/sign-of-the-product-of-an-array/">Sign of the Product of an Array</a></td>
+    <td><a href="src/main/java/leetcode/p1800/p1822/SignOfTheProductOfAnArray.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.05.01</td>
     <td>1491</td>
     <td><a href="https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/">Average Salary Excluding the Minimum and Maximum Salary</a></td>
