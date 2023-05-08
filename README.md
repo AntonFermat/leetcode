@@ -15,10 +15,17 @@ LeetCode
     <td colspan="5"><b>May</b></td>
   </tr>
   <tr>
+    <td>2023.05.08</td>
+    <td>1572</td>
+    <td><a href="https://leetcode.com/problems/matrix-diagonal-sum/">Matrix Diagonal Sum</a></td>
+    <td><a href="src/main/java/leetcode/p1500/p1572/MatrixDiagonalSum.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.05.07</td>
     <td>1964</td>
     <td><a href="https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/">Find the Longest Valid Obstacle Course at Each Position</a></td>
-    <td><a href="src/main/java/leetcode/p1900/p1964/">Java</a>
+    <td><a href="src/main/java/leetcode/p1900/p1964/FindTheLongestValidObstacleCourseAtEachPosition.java">Java</a>
     <td></td>
   </tr>
   <tr>
