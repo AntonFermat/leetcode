@@ -16,6 +16,13 @@ LeetCode
   </tr>
   <tr>
     <td>2023.05.05</td>
+    <td>1498</td>
+    <td><a href="https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/">Number of Subsequences That Satisfy the Given Sum Condition</a></td>
+    <td><a href="src/main/java/leetcode/p1400/p1498/NumberOfSubsequencesThatSatisfyTheGivenSumCondition.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2023.05.05</td>
     <td>1456</td>
     <td><a href="https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/">Maximum Number of Vowels in a Substring of Given Length</a></td>
     <td><a href="src/main/java/leetcode/p1400/p1456/MaximumNumberOfVowelsInASubstringOfGivenLength.java">Java</a>
