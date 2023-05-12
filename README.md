@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>May</b></td>
   </tr>
   <tr>
+    <td>2023.05.12</td>
+    <td>2140</td>
+    <td><a href="https://leetcode.com/problems/solving-questions-with-brainpower/">Solving Questions With Brainpower</a></td>
+    <td><a href="src/main/java/leetcode/p2100/p2140/SolvingQuestionsWithBrainpower.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.05.11</td>
     <td>1035</td>
     <td><a href="https://leetcode.com/problems/uncrossed-lines/">Uncrossed Lines</a></td>
