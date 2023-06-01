@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>May</b></td>
   </tr>
   <tr>
+    <td>2023.05.18</td>
+    <td>1557</td>
+    <td><a href="https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/">Minimum Number of Vertices to Reach All Nodes</a></td>
+    <td><a href="">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.05.17</td>
     <td>2130</td>
     <td><a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/">Maximum Twin Sum of a Linked List</a></td>
