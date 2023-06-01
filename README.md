@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>May</b></td>
   </tr>
   <tr>
+    <td>2023.05.15</td>
+    <td>1721</td>
+    <td><a href="https://leetcode.com/problems/swapping-nodes-in-a-linked-list/">Swapping Nodes in a Linked List</a></td>
+    <td><a href="src/main/java/leetcode/p1700/p1721/SwappingNodesInALinkedList.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.05.14</td>
     <td>1799</td>
     <td><a href="https://leetcode.com/problems/maximize-score-after-n-operations/">Maximize Score After N Operations</a></td>
