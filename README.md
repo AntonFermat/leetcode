@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>May</b></td>
   </tr>
   <tr>
+    <td>2023.05.16</td>
+    <td>0024</td>
+    <td><a href="https://leetcode.com/problems/swap-nodes-in-pairs/">Swap Nodes in Pairs</a></td>
+    <td><a href="src/main/java/leetcode/p0000/p0024/SwapNodesInPairs.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.05.15</td>
     <td>1721</td>
     <td><a href="https://leetcode.com/problems/swapping-nodes-in-a-linked-list/">Swapping Nodes in a Linked List</a></td>
