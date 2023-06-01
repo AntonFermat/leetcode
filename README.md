@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>May</b></td>
   </tr>
   <tr>
+    <td>2023.05.17</td>
+    <td>2130</td>
+    <td><a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/">Maximum Twin Sum of a Linked List</a></td>
+    <td><a href="src/main/java/leetcode/p2100/p2130/MaximumTwinSumOfALinkedList.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.05.16</td>
     <td>0024</td>
     <td><a href="https://leetcode.com/problems/swap-nodes-in-pairs/">Swap Nodes in Pairs</a></td>
