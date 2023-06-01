@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>May</b></td>
   </tr>
   <tr>
+    <td>2023.05.20</td>
+    <td>0399</td>
+    <td><a href="https://leetcode.com/problems/evaluate-division/">Evaluate Division</a></td>
+    <td><a href="src/main/java/leetcode/p0300/p0399/EvaluateDivision.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.05.19</td>
     <td>0785</td>
     <td><a href="https://leetcode.com/problems/is-graph-bipartite/">Is Graph Bipartite?</a></td>
