@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>May</b></td>
   </tr>
   <tr>
+    <td>2023.05.14</td>
+    <td>1799</td>
+    <td><a href="https://leetcode.com/problems/maximize-score-after-n-operations/">Maximize Score After N Operations</a></td>
+    <td><a href="src/main/java/leetcode/p1700/p1799/MaximizeScoreAfterNOperations.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.05.13</td>
     <td>2466</td>
     <td><a href="https://leetcode.com/problems/count-ways-to-build-good-strings/">Count Ways To Build Good Strings</a></td>
