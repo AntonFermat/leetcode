@@ -15,10 +15,17 @@ LeetCode
     <td colspan="5"><b>May</b></td>
   </tr>
   <tr>
+    <td>2023.05.19</td>
+    <td>0785</td>
+    <td><a href="https://leetcode.com/problems/is-graph-bipartite/">Is Graph Bipartite?</a></td>
+    <td><a href="src/main/java/leetcode/p0700/p0785/IsGraphBipartite.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.05.18</td>
     <td>1557</td>
     <td><a href="https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/">Minimum Number of Vertices to Reach All Nodes</a></td>
-    <td><a href="">Java</a>
+    <td><a href="src/main/java/leetcode/p1500/p1557/MinimumNumberOfVerticesToReachAllNodes.java">Java</a>
     <td></td>
   </tr>
   <tr>
