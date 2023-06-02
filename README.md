@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>May</b></td>
   </tr>
   <tr>
+    <td>2023.05.21</td>
+    <td>0934</td>
+    <td><a href="https://leetcode.com/problems/shortest-bridge/">Shortest Bridge</a></td>
+    <td><a href="src/main/java/leetcode/p0900/p0934/ShortestBridge.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.05.20</td>
     <td>0399</td>
     <td><a href="https://leetcode.com/problems/evaluate-division/">Evaluate Division</a></td>
