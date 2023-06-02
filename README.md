@@ -15,9 +15,16 @@ LeetCode
     <td colspan="5"><b>May</b></td>
   </tr>
   <tr>
+    <td>2023.05.2</td>
+    <td>2542</td>
+    <td><a href="https://leetcode.com/problems/maximum-subsequence-score/">Maximum Subsequence Score</a></td>
+    <td><a href="src/main/java/leetcode/p2500/p2542/MaximumSubsequenceScore.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.05.23</td>
     <td>0703</td>
-    <td><a href="">Kth Largest Element in a Stream</a></td>
+    <td><a href="https://leetcode.com/problems/kth-largest-element-in-a-stream/">Kth Largest Element in a Stream</a></td>
     <td><a href="src/main/java/leetcode/p0700/p0703/KthLargest.java">Java</a>
     <td></td>
   </tr>
