@@ -15,7 +15,14 @@ LeetCode
     <td colspan="5"><b>May</b></td>
   </tr>
   <tr>
-    <td>2023.05.2</td>
+    <td>2023.05.25</td>
+    <td>837</td>
+    <td><a href="https://leetcode.com/problems/new-21-game/">New 21 Game</a></td>
+    <td><a href="src/main/java/leetcode/p0800/p0837/New21Game.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2023.05.24</td>
     <td>2542</td>
     <td><a href="https://leetcode.com/problems/maximum-subsequence-score/">Maximum Subsequence Score</a></td>
     <td><a href="src/main/java/leetcode/p2500/p2542/MaximumSubsequenceScore.java">Java</a>
