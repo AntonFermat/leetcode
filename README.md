@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>May</b></td>
   </tr>
   <tr>
+    <td>2023.05.27</td>
+    <td>1406</td>
+    <td><a href="https://leetcode.com/problems/stone-game-iii/">Stone Game III</a></td>
+    <td><a href="src/main/java/leetcode/p1400/p1406/StoneGameIII.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.05.26</td>
     <td>1140</td>
     <td><a href="https://leetcode.com/problems/stone-game-ii/">Stone Game II</a></td>
