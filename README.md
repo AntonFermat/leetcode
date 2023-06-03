@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>May</b></td>
   </tr>
   <tr>
+    <td>2023.05.31</td>
+    <td>1396</td>
+    <td><a href="https://leetcode.com/problems/design-underground-system/">Design Underground System</a></td>
+    <td><a href="src/main/java/leetcode/p1300/p1396/UndergroundSystem.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.05.30</td>
     <td>0705</td>
     <td><a href="https://leetcode.com/problems/design-hashset/">Design HashSet</a></td>
