@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
+    <td>2023.06.03</td>
+    <td>1376</td>
+    <td><a href="https://leetcode.com/problems/time-needed-to-inform-all-employees/">Time Needed to Inform All Employees</a></td>
+    <td><a href="src/main/java/leetcode/p1300/p1376/TimeNeededToInformAllEmployees.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.02</td>
     <td>2101</td>
     <td><a href="https://leetcode.com/problems/detonate-the-maximum-bombs/">Detonate the Maximum Bombs</a></td>
