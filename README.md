@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
+    <td>2023.06.02</td>
+    <td>2101</td>
+    <td><a href="https://leetcode.com/problems/detonate-the-maximum-bombs/">Detonate the Maximum Bombs</a></td>
+    <td><a href="src/main/java/leetcode/p2100/p2101/DetonateTheMaximumBombs.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.01</td>
     <td>1091</td>
     <td><a href="https://leetcode.com/problems/shortest-path-in-binary-matrix/">Shortest Path in Binary Matrix</a></td>
