@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>May</b></td>
   </tr>
   <tr>
+    <td>2023.05.29</td>
+    <td>1603</td>
+    <td><a href="https://leetcode.com/problems/design-parking-system/">Design Parking System</a></td>
+    <td><a href="src/main/java/leetcode/p1600/p1603/ParkingSystem.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.05.28</td>
     <td>1547</td>
     <td><a href="https://leetcode.com/problems/minimum-cost-to-cut-a-stick/">Minimum Cost to Cut a Stick</a></td>
