@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>May</b></td>
   </tr>
   <tr>
+    <td>2023.05.30</td>
+    <td>0705</td>
+    <td><a href="https://leetcode.com/problems/design-hashset/">Design HashSet</a></td>
+    <td><a href="src/main/java/leetcode/p">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.05.29</td>
     <td>1603</td>
     <td><a href="https://leetcode.com/problems/design-parking-system/">Design Parking System</a></td>
