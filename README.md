@@ -12,6 +12,16 @@ LeetCode
     <td>Video</td>
   </tr>
   <tr>
+    <td colspan="5"><b>June</b></td>
+  </tr>
+  <tr>
+    <td>2023.06.01</td>
+    <td>1091</td>
+    <td><a href="https://leetcode.com/problems/shortest-path-in-binary-matrix/">Shortest Path in Binary Matrix</a></td>
+    <td><a href="src/main/java/leetcode/p1000/p1091/ShortestPathInBinaryMatrix.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td colspan="5"><b>May</b></td>
   </tr>
   <tr>
@@ -25,7 +35,7 @@ LeetCode
     <td>2023.05.30</td>
     <td>0705</td>
     <td><a href="https://leetcode.com/problems/design-hashset/">Design HashSet</a></td>
-    <td><a href="src/main/java/leetcode/p">Java</a>
+    <td><a href="src/main/java/leetcode/p0700/p0705/MyHashSet.java">Java</a>
     <td></td>
   </tr>
   <tr>
