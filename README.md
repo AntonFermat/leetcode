@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
+    <td>2023.06.04</td>
+    <td>0547</td>
+    <td><a href="https://leetcode.com/problems/number-of-provinces/">Number of Provinces</a></td>
+    <td><a href="src/main/java/leetcode/p0500/p0547/NumberOfProvinces.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.03</td>
     <td>1376</td>
     <td><a href="https://leetcode.com/problems/time-needed-to-inform-all-employees/">Time Needed to Inform All Employees</a></td>
