@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
+    <td>2023.06.05</td>
+    <td>1232</td>
+    <td><a href="https://leetcode.com/problems/check-if-it-is-a-straight-line/">Check If It Is a Straight Line</a></td>
+    <td><a href="src/main/java/leetcode/p">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.04</td>
     <td>0547</td>
     <td><a href="https://leetcode.com/problems/number-of-provinces/">Number of Provinces</a></td>
