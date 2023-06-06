@@ -15,10 +15,17 @@ LeetCode
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
+    <td>2023.06.06</td>
+    <td>1502</td>
+    <td><a href="https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/">Can Make Arithmetic Progression From Sequence</a></td>
+    <td><a href="src/main/java/leetcode/p1500/p1502/CanMakeArithmeticProgressionFromSequence.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.05</td>
     <td>1232</td>
     <td><a href="https://leetcode.com/problems/check-if-it-is-a-straight-line/">Check If It Is a Straight Line</a></td>
-    <td><a href="src/main/java/leetcode/p">Java</a>
+    <td><a href="src/main/java/leetcode/p1200/p1232/CheckIfItIsAStraightLine.java">Java</a>
     <td></td>
   </tr>
   <tr>
