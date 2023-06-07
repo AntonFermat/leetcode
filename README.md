@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
+    <td>2023.06.07</td>
+    <td>1318</td>
+    <td><a href="https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/">Minimum Flips to Make a OR b Equal to c</a></td>
+    <td><a href="src/main/java/leetcode/p1300/p1318/MinimumFlipsToMakeAORBEqualToC.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.06</td>
     <td>1502</td>
     <td><a href="https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/">Can Make Arithmetic Progression From Sequence</a></td>
