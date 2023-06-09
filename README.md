@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
+    <td>2023.06.09</td>
+    <td>0744</td>
+    <td><a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/">744. Find Smallest Letter Greater Than Target</a></td>
+    <td><a href="src/main/java/leetcode/p0700/p0744/FindSmallestLetterGreaterThanTarget.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.08</td>
     <td>1351</td>
     <td><a href="https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/">Count Negative Numbers in a Sorted Matrix</a></td>
