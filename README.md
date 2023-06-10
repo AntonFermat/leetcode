@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
+    <td>2023.06.10</td>
+    <td>1802</td>
+    <td><a href="">Maximum Value at a Given Index in a Bounded Array</a></td>
+    <td><a href="src/main/java/leetcode/p1800/p1802/MaximumValueAtAGivenIndexInABoundedArray.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.09</td>
     <td>0744</td>
     <td><a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/">744. Find Smallest Letter Greater Than Target</a></td>
