@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
+    <td>2023.06.11</td>
+    <td>1146</td>
+    <td><a href="https://leetcode.com/problems/snapshot-array/">Snapshot Array</a></td>
+    <td><a href="src/main/java/leetcode/p1100/p1146/SnapshotArray.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.10</td>
     <td>1802</td>
     <td><a href="">Maximum Value at a Given Index in a Bounded Array</a></td>
