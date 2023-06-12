@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
+    <td>2023.06.12</td>
+    <td>0228</td>
+    <td><a href="https://leetcode.com/problems/summary-ranges/">228. Summary Ranges</a></td>
+    <td><a href="src/main/java/leetcode/p0200/p0228/SummaryRanges.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.11</td>
     <td>1146</td>
     <td><a href="https://leetcode.com/problems/snapshot-array/">Snapshot Array</a></td>
