@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
+    <td>2023.06.13</td>
+    <td>2352. Equal Row and Column Pairs</td>
+    <td><a href="https://leetcode.com/problems/equal-row-and-column-pairs/">Equal Row and Column Pairs</a></td>
+    <td><a href="src/main/java/leetcode/p2300/p2352/EqualRowAndColumnPairs.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.12</td>
     <td>0228</td>
     <td><a href="https://leetcode.com/problems/summary-ranges/">228. Summary Ranges</a></td>
