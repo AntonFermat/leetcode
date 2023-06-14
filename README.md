@@ -15,8 +15,15 @@ LeetCode
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
+    <td>2023.06.14</td>
+    <td>0530</td>
+    <td><a href="https://leetcode.com/problems/minimum-absolute-difference-in-bst/">Minimum Absolute Difference in BST</a></td>
+    <td><a href="src/main/java/leetcode/p0500/p0530/MinimumAbsoluteDifferenceInBST.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.13</td>
-    <td>2352. Equal Row and Column Pairs</td>
+    <td>2352</td>
     <td><a href="https://leetcode.com/problems/equal-row-and-column-pairs/">Equal Row and Column Pairs</a></td>
     <td><a href="src/main/java/leetcode/p2300/p2352/EqualRowAndColumnPairs.java">Java</a>
     <td></td>
