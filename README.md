@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
+    <td>2023.06.15</td>
+    <td>1161</td>
+    <td><a href="https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/">Maximum Level Sum of a Binary Tree</a></td>
+    <td><a href="src/main/java/leetcode/p1100/p1161">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.14</td>
     <td>0530</td>
     <td><a href="https://leetcode.com/problems/minimum-absolute-difference-in-bst/">Minimum Absolute Difference in BST</a></td>
