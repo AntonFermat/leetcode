@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
+    <td>2023.06.18</td>
+    <td>2328</td>
+    <td><a href="https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/">Number of Increasing Paths in a Grid</a></td>
+    <td><a href="src/main/java/leetcode/p2300/p2328/NumberOfIncreasingPathsInAGrid.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.17</td>
     <td>1187</td>
     <td><a href="https://leetcode.com/problems/make-array-strictly-increasing/">Make Array Strictly Increasing</a></td>
