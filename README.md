@@ -15,9 +15,16 @@ LeetCode
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
+    <td>2023.06.17</td>
+    <td>1187</td>
+    <td><a href="https://leetcode.com/problems/make-array-strictly-increasing/">Make Array Strictly Increasing</a></td>
+    <td><a href="src/main/java/leetcode/p1100/p1187/MakeArrayStrictlyIncreasing.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.16</td>
     <td>1569</td>
-    <td><a href="https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/"></a></td>
+    <td><a href="https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/">Number of Ways to Reorder Array to Get Same BST</a></td>
     <td><a href="src/main/java/leetcode/p1500/p1569/NumberOfWaysToReorderArrayToGetSameBST.java">Java</a>
     <td></td>
   </tr>
