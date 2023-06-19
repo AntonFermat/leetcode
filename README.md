@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
+    <td>2023.06.19</td>
+    <td>1732</td>
+    <td><a href="https://leetcode.com/problems/find-the-highest-altitude/">Find the Highest Altitude</a></td>
+    <td><a href="src/main/java/leetcode/p1700/p1732/FindTheHighestAltitude.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.18</td>
     <td>2328</td>
     <td><a href="https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/">Number of Increasing Paths in a Grid</a></td>
