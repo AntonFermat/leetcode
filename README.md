@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
+    <td>2023.06.20</td>
+    <td>2090</td>
+    <td><a href="https://leetcode.com/problems/k-radius-subarray-averages/">K Radius Subarray Averages</a></td>
+    <td><a href="src/main/java/leetcode/p2000/p2090/KRadiusSubarrayAverages.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.19</td>
     <td>1732</td>
     <td><a href="https://leetcode.com/problems/find-the-highest-altitude/">Find the Highest Altitude</a></td>

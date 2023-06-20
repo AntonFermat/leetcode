@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-highest-altitude/"></a></h2>
+<h2><a href="https://leetcode.com/problems/find-the-highest-altitude/">Find the Highest Altitude</a></h2>
 <h3>Easy</h3>
 <p>There is a biker going on a road trip. The road trip consists of <code>n + 1</code> points at different altitudes. The biker starts his trip on point <code>0</code> with altitude equal <code>0</code>.</p>
 
