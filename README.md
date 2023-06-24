@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
+    <td>2023.06.24</td>
+    <td>0956</td>
+    <td><a href="https://leetcode.com/problems/tallest-billboard/">Tallest Billboard</a></td>
+    <td><a href="src/main/java/leetcode/p0900/p0956/TallestBillboard.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.23</td>
     <td>1027</td>
     <td><a href="https://leetcode.com/problems/longest-arithmetic-subsequence/">Longest Arithmetic Subsequence</a></td>
