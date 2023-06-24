@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
+    <td>2023.06.23</td>
+    <td>1027</td>
+    <td><a href="https://leetcode.com/problems/longest-arithmetic-subsequence/">Longest Arithmetic Subsequence</a></td>
+    <td><a href="src/main/java/leetcode/p1000/p1027/LongestArithmeticSubsequence.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.22</td>
     <td>0714</td>
     <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/">Best Time to Buy and Sell Stock with Transaction Fee</a></td>
