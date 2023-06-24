@@ -15,10 +15,17 @@ LeetCode
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
+    <td>2023.06.22</td>
+    <td>0714</td>
+    <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/">Best Time to Buy and Sell Stock with Transaction Fee</a></td>
+    <td><a href="src/main/java/leetcode/p0700/p0714/BestTimeToBuyAndSellStockWithTransactionFee.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.21</td>
     <td>2448</td>
     <td><a href="https://leetcode.com/problems/minimum-cost-to-make-array-equal/">Minimum Cost to Make Array Equal</a></td>
-    <td><a href="src/main/java/leetcode/p2400/p2448">Java</a>
+    <td><a href="src/main/java/leetcode/p2400/p2448/MinimumCostToMakeArrayEqual.java">Java</a>
     <td></td>
   </tr>
   <tr>
