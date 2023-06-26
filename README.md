@@ -22,6 +22,13 @@ LeetCode
     <td></td>
   </tr>
   <tr>
+    <td>2023.06.25</td>
+    <td>1575</td>
+    <td><a href="https://leetcode.com/problems/count-all-possible-routes/">Count All Possible Routes</a></td>
+    <td><a href="src/main/java/leetcode/p1500/p1575/CountAllPossibleRoutes.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.24</td>
     <td>0956</td>
     <td><a href="https://leetcode.com/problems/tallest-billboard/">Tallest Billboard</a></td>
