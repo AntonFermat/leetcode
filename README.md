@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
+    <td>2023.06.27</td>
+    <td>0373</td>
+    <td><a href="https://leetcode.com/problems/find-k-pairs-with-smallest-sums/">373. Find K Pairs with Smallest Sums</a></td>
+    <td><a href="src/main/java/leetcode/p0300/p0373/FindKPairsWithSmallestSums.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.26</td>
     <td>2462</td>
     <td><a href="https://leetcode.com/problems/total-cost-to-hire-k-workers/">Total Cost to Hire K Workers</a></td>
