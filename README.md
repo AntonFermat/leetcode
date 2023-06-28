@@ -15,9 +15,16 @@ LeetCode
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
+    <td>2023.06.28</td>
+    <td>1514</td>
+    <td><a href="https://leetcode.com/problems/path-with-maximum-probability/">Path with Maximum Probability</a></td>
+    <td><a href="src/main/java/leetcode/p1500/p1575/CountAllPossibleRoutes.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.27</td>
     <td>0373</td>
-    <td><a href="https://leetcode.com/problems/find-k-pairs-with-smallest-sums/">373. Find K Pairs with Smallest Sums</a></td>
+    <td><a href="https://leetcode.com/problems/find-k-pairs-with-smallest-sums/">Find K Pairs with Smallest Sums</a></td>
     <td><a href="src/main/java/leetcode/p0300/p0373/FindKPairsWithSmallestSums.java">Java</a>
     <td></td>
   </tr>
