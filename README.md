@@ -22,6 +22,13 @@ LeetCode
     <td></td>
   </tr>
   <tr>
+    <td>2023.06.29</td>
+    <td>0864</td>
+    <td><a href="https://leetcode.com/problems/shortest-path-to-get-all-keys/">Shortest Path to Get All Keys</a></td>
+    <td><a href="src/main/java/leetcode/p0800/p0864/ShortestPathToGetAllKeys.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.28</td>
     <td>1514</td>
     <td><a href="https://leetcode.com/problems/path-with-maximum-probability/">Path with Maximum Probability</a></td>
