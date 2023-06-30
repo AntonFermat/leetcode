@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
+    <td>2023.06.30</td>
+    <td>1970</td>
+    <td><a href="https://leetcode.com/problems/last-day-where-you-can-still-cross/">Last Day Where You Can Still Cross</a></td>
+    <td><a href="src/main/java/leetcode/p1900/p1970/LastDayWhereYouCanStillCross.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.06.28</td>
     <td>1514</td>
     <td><a href="https://leetcode.com/problems/path-with-maximum-probability/">Path with Maximum Probability</a></td>
