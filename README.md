@@ -12,6 +12,16 @@ LeetCode
     <td>Video</td>
   </tr>
   <tr>
+    <td colspan="5"><b>Огдн</b></td>
+  </tr>
+  <tr>
+    <td>2023.07.01</td>
+    <td>2305</td>
+    <td><a href="https://leetcode.com/problems/fair-distribution-of-cookies/">Fair Distribution of Cookies</a></td>
+    <td><a href="src/main/java/leetcode/p2300/p2305/FairDistributionOfCookies.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td colspan="5"><b>June</b></td>
   </tr>
   <tr>
