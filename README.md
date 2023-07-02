@@ -12,7 +12,14 @@ LeetCode
     <td>Video</td>
   </tr>
   <tr>
-    <td colspan="5"><b>Огдн</b></td>
+    <td colspan="5"><b>July</b></td>
+  </tr>
+  <tr>
+    <td>2023.07.02</td>
+    <td>1601</td>
+    <td><a href="https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/">Maximum Number of Achievable Transfer Requests</a></td>
+    <td><a href="src/main/java/leetcode/p1600/p1601/MaximumNumberOfAchievableTransferRequests.java">Java</a>
+    <td></td>
   </tr>
   <tr>
     <td>2023.07.01</td>
