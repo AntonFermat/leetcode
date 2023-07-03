@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>July</b></td>
   </tr>
   <tr>
+    <td>2023.07.03</td>
+    <td>0859</td>
+    <td><a href="https://leetcode.com/problems/buddy-strings/">Buddy Strings</a></td>
+    <td><a href="src/main/java/leetcode/p0800/p0859/BuddyStrings.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.07.02</td>
     <td>1601</td>
     <td><a href="https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/">Maximum Number of Achievable Transfer Requests</a></td>
