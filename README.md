@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>July</b></td>
   </tr>
   <tr>
+    <td>2023.07.05</td>
+    <td>1493</td>
+    <td><a href="https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/">Longest Subarray of 1's After Deleting One Element</a></td>
+    <td><a href="src/main/java/leetcode/p1400/p1493/LongestSubarrayOf1sAfterDeletingOneElement.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.07.04</td>
     <td>0137</td>
     <td><a href="https://leetcode.com/problems/single-number-ii/">Single Number II</a></td>
