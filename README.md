@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>July</b></td>
   </tr>
   <tr>
+    <td>2023.07.06</td>
+    <td>0209</td>
+    <td><a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Minimum Size Subarray Sum</a></td>
+    <td><a href="src/main/java/leetcode/p0200/p0209/MinimumSizeSubarraySum.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.07.05</td>
     <td>1493</td>
     <td><a href="https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/">Longest Subarray of 1's After Deleting One Element</a></td>
