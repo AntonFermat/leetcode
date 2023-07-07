@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>July</b></td>
   </tr>
   <tr>
+    <td>2023.07.07</td>
+    <td>2024</td>
+    <td><a href="https://leetcode.com/problems/maximize-the-confusion-of-an-exam/">Maximize the Confusion of an Exam</a></td>
+    <td><a href="src/main/java/leetcode/p2000/p2024/MaximizeTheConfusionOfAnExam.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.07.06</td>
     <td>0209</td>
     <td><a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Minimum Size Subarray Sum</a></td>
