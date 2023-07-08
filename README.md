@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>July</b></td>
   </tr>
   <tr>
+    <td>2023.07.08</td>
+    <td>2551</td>
+    <td><a href="https://leetcode.com/problems/put-marbles-in-bags/">Put Marbles in Bags</a></td>
+    <td><a href="src/main/java/leetcode/p2500/p2551/PutMarblesInBags.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.07.07</td>
     <td>2024</td>
     <td><a href="https://leetcode.com/problems/maximize-the-confusion-of-an-exam/">Maximize the Confusion of an Exam</a></td>
