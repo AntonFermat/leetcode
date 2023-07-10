@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>July</b></td>
   </tr>
   <tr>
+    <td>2023.07.09</td>
+    <td>2272</td>
+    <td><a href="https://leetcode.com/problems/substring-with-largest-variance/">Substring With Largest Variance</a></td>
+    <td><a href="src/main/java/leetcode/p2200/p2272/SubstringWithLargestVariance.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.07.08</td>
     <td>2551</td>
     <td><a href="https://leetcode.com/problems/put-marbles-in-bags/">Put Marbles in Bags</a></td>
