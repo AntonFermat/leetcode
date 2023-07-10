@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>July</b></td>
   </tr>
   <tr>
+    <td>2023.07.10</td>
+    <td>0111</td>
+    <td><a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/">Minimum Depth of Binary Tree</a></td>
+    <td><a href="src/main/java/leetcode/p0100/p0111/MinimumDepthOfBinaryTree.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.07.09</td>
     <td>2272</td>
     <td><a href="https://leetcode.com/problems/substring-with-largest-variance/">Substring With Largest Variance</a></td>
