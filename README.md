@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>July</b></td>
   </tr>
   <tr>
+    <td>2023.07.12</td>
+    <td>0802</td>
+    <td><a href="https://leetcode.com/problems/find-eventual-safe-states/">Find Eventual Safe States</a></td>
+    <td><a href="src/main/java/leetcode/p0800/p0802/FindEventualSafeStates.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.07.11</td>
     <td>0863</td>
     <td><a href="https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/">All Nodes Distance K in Binary Tree</a></td>
