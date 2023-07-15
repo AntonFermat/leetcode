@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>July</b></td>
   </tr>
   <tr>
+    <td>2023.07.14</td>
+    <td>1218</td>
+    <td><a href="https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/">Longest Arithmetic Subsequence of Given Difference</a></td>
+    <td><a href="src/main/java/leetcode/p1200/p1218/LongestArithmeticSubsequenceOfGivenDifference.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.07.13</td>
     <td>0207</td>
     <td><a href="https://leetcode.com/problems/course-schedule/">Course Schedule</a></td>
