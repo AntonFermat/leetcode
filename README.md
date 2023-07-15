@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>July</b></td>
   </tr>
   <tr>
+    <td>2023.07.15</td>
+    <td>1751</td>
+    <td><a href="https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/">Maximum Number of Events That Can Be Attended II</a></td>
+    <td><a href="src/main/java/leetcode/p1700/p1751/MaximumNumberOfEventsThatCanBeAttendedII.java">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.07.14</td>
     <td>1218</td>
     <td><a href="https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/">Longest Arithmetic Subsequence of Given Difference</a></td>
