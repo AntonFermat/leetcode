@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>July</b></td>
   </tr>
   <tr>
+    <td>2023.07.16</td>
+    <td>1125</td>
+    <td><a href="">Smallest Sufficient Team</a></td>
+    <td><a href="src/main/java/leetcode/p">Java</a>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.07.15</td>
     <td>1751</td>
     <td><a href="https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/">Maximum Number of Events That Can Be Attended II</a></td>
