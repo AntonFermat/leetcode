@@ -14,11 +14,19 @@ LeetCode
   <tr>
     <td colspan="5"><b>July</b></td>
   </tr>
+
+  <tr>
+    <td>2023.07.17</td>
+    <td>0445</td>
+    <td><a href="https://leetcode.com/problems/add-two-numbers-ii/">Smallest Sufficient Team</a></td>
+    <td><a href="src/main/java/leetcode/p0400/p0445/AddTwoNumbersII.java">Java</a>
+    <td></td>
+  </tr>
   <tr>
     <td>2023.07.16</td>
     <td>1125</td>
-    <td><a href="">Smallest Sufficient Team</a></td>
-    <td><a href="src/main/java/leetcode/p">Java</a>
+    <td><a href="https://leetcode.com/problems/smallest-sufficient-team/">Smallest Sufficient Team</a></td>
+    <td><a href="src/main/java/leetcode/p1100/p1125/SmallestSufficientTeam.java">Java</a>
     <td></td>
   </tr>
   <tr>
