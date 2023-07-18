@@ -14,7 +14,13 @@ LeetCode
   <tr>
     <td colspan="5"><b>July</b></td>
   </tr>
-
+  <tr>
+    <td>2023.07.18</td>
+    <td>0146</td>
+    <td><a href="https://leetcode.com/problems/lru-cache/">146. LRU Cache</a></td>
+    <td><a href="src/main/java/leetcode/p">Java</a>
+    <td></td>   
+  </tr>
   <tr>
     <td>2023.07.17</td>
     <td>0445</td>
