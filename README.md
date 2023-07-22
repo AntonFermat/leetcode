@@ -15,10 +15,17 @@ LeetCode
     <td colspan="5"><b>July</b></td>
   </tr>
   <tr>
+    <td>2023.07.22</td>
+    <td>688</td>
+    <td><a href="https://leetcode.com/problems/knight-probability-in-chessboard/">Knight Probability in Chessboard</a></td>
+    <td><a href="src/main/java/leetcode/p0600/p0688/KnightProbabilityInChessboard.java  ">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.07.21</td>
     <td>0673</td>
-    <td><a href="https://leetcode.com/problems/number-of-longest-increasing-subsequence/"></a></td>
-    <td><a href="">Java</a>
+    <td><a href="https://leetcode.com/problems/number-of-longest-increasing-subsequence/">Number of Longest Increasing Subsequence</a></td>
+    <td><a href="src/main/java/leetcode/p0600/p0673/NumberOfLongestIncreasingSubsequence.java">Java</a>
     <td></td>   
   </tr>
   <tr>
