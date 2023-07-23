@@ -15,8 +15,15 @@ LeetCode
     <td colspan="5"><b>July</b></td>
   </tr>
   <tr>
+    <td>2023.07.23</td>
+    <td>0894</td>
+    <td><a href="https://leetcode.com/problems/all-possible-full-binary-trees/">All Possible Full Binary Trees</a></td>
+    <td><a href="src/main/java/leetcode/p0800/p0894/AllPossibleFullBinaryTrees.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.07.22</td>
-    <td>688</td>
+    <td>0688</td>
     <td><a href="https://leetcode.com/problems/knight-probability-in-chessboard/">Knight Probability in Chessboard</a></td>
     <td><a href="src/main/java/leetcode/p0600/p0688/KnightProbabilityInChessboard.java  ">Java</a>
     <td></td>   
