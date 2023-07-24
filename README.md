@@ -16,6 +16,13 @@ LeetCode
   </tr>
   <tr>
     <td>2023.07.23</td>
+    <td>0050</td>
+    <td><a href="https://leetcode.com/problems/powx-n/">Pow(x, n)</a></td>
+    <td><a href="src/main/java/leetcode/p0000/p0050/Powxn.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
+    <td>2023.07.23</td>
     <td>0894</td>
     <td><a href="https://leetcode.com/problems/all-possible-full-binary-trees/">All Possible Full Binary Trees</a></td>
     <td><a href="src/main/java/leetcode/p0800/p0894/AllPossibleFullBinaryTrees.java">Java</a>
