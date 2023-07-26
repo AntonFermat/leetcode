@@ -15,14 +15,21 @@ LeetCode
     <td colspan="5"><b>July</b></td>
   </tr>
   <tr>
-    <td>2023.07.23</td>
+    <td>2023.07.26</td>
+    <td>1870</td>
+    <td><a href="https://leetcode.com/problems/minimum-speed-to-arrive-on-time/">Minimum Speed to Arrive on Time</a></td>
+    <td><a href="src/main/java/leetcode/p1800/p1870/MinimumSpeedToArriveOnTime.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
+    <td>2023.07.25</td>
     <td>0852</td>
     <td><a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/description/">Peak Index in a Mountain Array</a></td>
     <td><a href="src/main/java/leetcode/p0800/p0852/PeakIndexInAMountainArray.java">Java</a>
     <td></td>   
   </tr>
   <tr>
-    <td>2023.07.23</td>
+    <td>2023.07.24</td>
     <td>0050</td>
     <td><a href="https://leetcode.com/problems/powx-n/">Pow(x, n)</a></td>
     <td><a href="src/main/java/leetcode/p0000/p0050/Powxn.java">Java</a>
