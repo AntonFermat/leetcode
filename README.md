@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>July</b></td>
   </tr>
   <tr>
+    <td>2023.07.27</td>
+    <td>2141</td>
+    <td><a href="https://leetcode.com/problems/maximum-running-time-of-n-computers/description/">Maximum Running Time of N Computers</a></td>
+    <td><a href="src/main/java/leetcode/p2100/p2141/MaximumRunningTimeOfNComputers.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.07.26</td>
     <td>1870</td>
     <td><a href="https://leetcode.com/problems/minimum-speed-to-arrive-on-time/">Minimum Speed to Arrive on Time</a></td>
