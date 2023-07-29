@@ -15,6 +15,5 @@ public class PredictTheWinner {
         if (memo[l][r] != -1) return memo[l][r];
         return memo[l][r] = Math.max(nums[l] - helper(nums, l + 1, r, memo),
                 nums[r] - helper(nums, l, r - 1, memo));
-
     }
 }

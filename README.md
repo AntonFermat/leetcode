@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>July</b></td>
   </tr>
   <tr>
+    <td>2023.07.29</td>
+    <td>0808</td>
+    <td><a href="https://leetcode.com/problems/soup-servings/">Soup Servings</a></td>
+    <td><a href="src/main/java/leetcode/p0800/p0808/SoupServings.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.07.28</td>
     <td>0486</td>
     <td><a href="https://leetcode.com/problems/predict-the-winner/">Predict the Winner</a></td>
