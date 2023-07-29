@@ -15,9 +15,16 @@ LeetCode
     <td colspan="5"><b>July</b></td>
   </tr>
   <tr>
+    <td>2023.07.28</td>
+    <td>0486</td>
+    <td><a href="https://leetcode.com/problems/predict-the-winner/">Predict the Winner</a></td>
+    <td><a href="src/main/java/leetcode/p0400/p0486/PredictTheWinner.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.07.27</td>
     <td>2141</td>
-    <td><a href="https://leetcode.com/problems/maximum-running-time-of-n-computers/description/">Maximum Running Time of N Computers</a></td>
+    <td><a href="https://leetcode.com/problems/maximum-running-time-of-n-computers/">Maximum Running Time of N Computers</a></td>
     <td><a href="src/main/java/leetcode/p2100/p2141/MaximumRunningTimeOfNComputers.java">Java</a>
     <td></td>   
   </tr>
