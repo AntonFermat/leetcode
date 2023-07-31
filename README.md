@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>July</b></td>
   </tr>
   <tr>
+    <td>2023.07.31</td>
+    <td>0712</td>
+    <td><a href="https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/">Minimum ASCII Delete Sum for Two Strings</a></td>
+    <td><a href="src/main/java/leetcode/p0700/p0712/MinimumASCIIDeleteSumForTwoStrings.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.07.29</td>
     <td>0808</td>
     <td><a href="https://leetcode.com/problems/soup-servings/">Soup Servings</a></td>
