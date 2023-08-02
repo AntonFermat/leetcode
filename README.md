@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>August</b></td>
   </tr>
   <tr>
+    <td>2023.08.02</td>
+    <td>0046</td>
+    <td><a href="https://leetcode.com/problems/permutations/">46. Permutations</a></td>
+    <td><a href="src/main/java/leetcode/p0000/p0046/Permutations.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.08.01</td>
     <td>0077</td>
     <td><a href="https://leetcode.com/problems/combinations/">Combinations</a></td>
