@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>August</b></td>
   </tr>
   <tr>
+    <td>2023.08.06</td>
+    <td>920</td>
+    <td><a href="https://leetcode.com/problems/number-of-music-playlists/">Number of Music Playlists</a></td>
+    <td><a href="src/main/java/leetcode/p0900/p0920/NumberOfMusicPlaylists.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.08.02</td>
     <td>0046</td>
     <td><a href="https://leetcode.com/problems/permutations/">46. Permutations</a></td>
