@@ -29,6 +29,13 @@ LeetCode
     <td></td>   
   </tr>
   <tr>
+    <td>2023.08.04</td>
+    <td>0139</td>
+    <td><a href="https://leetcode.com/problems/word-break/">Word Break</a></td>
+    <td><a href="src/main/java/leetcode/p0100/p0139/WordBreak.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.08.03</td>
     <td>0017</td>
     <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">Letter Combinations of a Phone Number</a></td>
