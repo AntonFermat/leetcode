@@ -15,8 +15,15 @@ LeetCode
     <td colspan="5"><b>August</b></td>
   </tr>
   <tr>
+    <td>2023.08.07</td>
+    <td>0074</td>
+    <td><a href="https://leetcode.com/problems/search-a-2d-matrix/">Search a 2D Matrix</a></td>
+    <td><a href="src/main/java/leetcode/p0000/p0074/SearchA2DMatrix.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.08.06</td>
-    <td>920</td>
+    <td>0920</td>
     <td><a href="https://leetcode.com/problems/number-of-music-playlists/">Number of Music Playlists</a></td>
     <td><a href="src/main/java/leetcode/p0900/p0920/NumberOfMusicPlaylists.java">Java</a>
     <td></td>   
