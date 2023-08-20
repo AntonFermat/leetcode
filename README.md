@@ -15,9 +15,16 @@ LeetCode
     <td colspan="5"><b>August</b></td>
   </tr>
   <tr>
+    <td>2023.08.11</td>
+    <td>0518</td>
+    <td><a href="https://leetcode.com/problems/coin-change-ii/">Coin Change II</a></td>
+    <td><a href="src/main/java/leetcode/p0500/p0518/CoinChangeII.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.08.10</td>
     <td>0081</td>
-    <td><a href="">Search in Rotated Sorted Array II</a></td>
+    <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array-ii/">Search in Rotated Sorted Array II</a></td>
     <td><a href="src/main/java/leetcode/p0000/p0081/SearchInRotatedSortedArrayII.java">Java</a>
     <td></td>   
   </tr>
