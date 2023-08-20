@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>August</b></td>
   </tr>
   <tr>
+    <td>2023.08.12</td>
+    <td>0063</td>
+    <td><a href="https://leetcode.com/problems/unique-paths-ii/">Unique Paths II</a></td>
+    <td><a href="src/main/java/leetcode/p0500/p0518/CoinChangeII.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.08.11</td>
     <td>0518</td>
     <td><a href="https://leetcode.com/problems/coin-change-ii/">Coin Change II</a></td>
