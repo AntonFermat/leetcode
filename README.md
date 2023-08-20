@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>August</b></td>
   </tr>
   <tr>
+    <td>2023.08.08</td>
+    <td>0033</td>
+    <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in Rotated Sorted Array</a></td>
+    <td><a href="src/main/java/leetcode/p0000/p0033/SearchInRotatedSortedArray.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.08.07</td>
     <td>0074</td>
     <td><a href="https://leetcode.com/problems/search-a-2d-matrix/">Search a 2D Matrix</a></td>
@@ -45,7 +52,7 @@ LeetCode
   <tr>
     <td>2023.08.02</td>
     <td>0046</td>
-    <td><a href="https://leetcode.com/problems/permutations/">46. Permutations</a></td>
+    <td><a href="https://leetcode.com/problems/permutations/">Permutations</a></td>
     <td><a href="src/main/java/leetcode/p0000/p0046/Permutations.java">Java</a>
     <td></td>   
   </tr>
