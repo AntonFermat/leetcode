@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>August</b></td>
   </tr>
   <tr>
+    <td>2023.08.09</td>
+    <td>2616</td>
+    <td><a href="https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/">Minimize the Maximum Difference of Pairs</a></td>
+    <td><a href="src/main/java/leetcode/p2600/p2616/MinimizeTheMaximumDifferenceOfPairs.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.08.08</td>
     <td>0033</td>
     <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in Rotated Sorted Array</a></td>
