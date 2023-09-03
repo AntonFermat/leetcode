@@ -22,6 +22,13 @@ LeetCode
     <td></td>   
   </tr>
   <tr>
+    <td>2023.09.01</td>
+    <td>0338</td>
+    <td><a href="https://leetcode.com/problems/counting-bits/">Counting Bits</a></td>
+    <td><a href="src/main/java/leetcode/p0300/p0338/CountingBits.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td colspan="5"><b>August</b></td>
   </tr>
   <tr>
