@@ -88,6 +88,13 @@ LeetCode
     <td></td>   
   </tr>
   <tr>
+    <td>2023.08.05</td>
+    <td>0095</td>
+    <td><a href="https://leetcode.com/problems/unique-binary-search-trees-ii/">Unique Binary Search Trees II</a></td>
+    <td><a href="src/main/java/leetcode/p0000/p0095/UniqueBinarySearchTreesII.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.08.04</td>
     <td>0139</td>
     <td><a href="https://leetcode.com/problems/word-break/">Word Break</a></td>
