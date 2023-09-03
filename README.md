@@ -46,6 +46,13 @@ LeetCode
     <td></td>   
   </tr>
   <tr>
+    <td>2023.08.13</td>
+    <td>2369</td>
+    <td><a href="https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/">Check if There is a Valid Partition For The Array</a></td>
+    <td><a href="src/main/java/leetcode/p2300/p2369/CheckIfThereIsAValidPartitionForTheArray.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.08.12</td>
     <td>0063</td>
     <td><a href="https://leetcode.com/problems/unique-paths-ii/">Unique Paths II</a></td>
