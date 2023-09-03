@@ -22,6 +22,13 @@ LeetCode
     <td></td>   
   </tr>
   <tr>
+    <td>2023.09.02</td>
+    <td>2707</td>
+    <td><a href="https://leetcode.com/problems/counting-bits/description/">Extra Characters in a String</a></td>
+    <td><a href="src/main/java/leetcode/p2700/p2707/ExtraCharactersInAString.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.09.01</td>
     <td>0338</td>
     <td><a href="https://leetcode.com/problems/counting-bits/">Counting Bits</a></td>
