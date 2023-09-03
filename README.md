@@ -46,9 +46,16 @@ LeetCode
     <td></td>   
   </tr>
   <tr>
+    <td>2023.08.15</td>
+    <td>0086</td>
+    <td><a href="https://leetcode.com/problems/partition-list/">Partition List</a></td>
+    <td><a href="src/main/java/leetcode/p0000/p0086/PartitionList.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.08.14</td>
     <td>0215</td>
-    <td><a href="https://leetcode.com/problems/kth-largest-element-in-an-array/"></a>Kth Largest Element in an Array</td>
+    <td><a href="https://leetcode.com/problems/kth-largest-element-in-an-array/">Kth Largest Element in an Array</a></td>
     <td><a href="src/main/java/leetcode/p0200/p0215/KthLargestElementInAnArray.java">Java</a>
     <td></td>   
   </tr>
