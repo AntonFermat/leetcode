@@ -46,6 +46,14 @@ LeetCode
     <td colspan="5"><b>August</b></td>
   </tr>
   <tr>
+    <td>2023.08.18</td>
+    <td>1615</td>
+    <td><a href="https://leetcode.com/problems/maximal-network-rank/">Maximal Network Rank</a></td>
+    <td><a href="src/main/java/leetcode/p1600/p1615/MaximalNetworkRank.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
+  <tr>
     <td>2023.08.17</td>
     <td>0542</td>
     <td><a href="https://leetcode.com/problems/sliding-window-maximum/">01 Matrix</a></td>
