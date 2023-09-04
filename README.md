@@ -46,6 +46,13 @@ LeetCode
     <td colspan="5"><b>August</b></td>
   </tr>
   <tr>
+    <td>2023.08.17</td>
+    <td>0542</td>
+    <td><a href="https://leetcode.com/problems/sliding-window-maximum/">01 Matrix</a></td>
+    <td><a href="src/main/java/leetcode/p0500/p0542/Matrix01.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.08.16</td>
     <td>0239</td>
     <td><a href="https://leetcode.com/problems/sliding-window-maximum/">Sliding Window Maximum</a></td>
