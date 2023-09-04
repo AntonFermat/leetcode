@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>September</b></td>
   </tr>
   <tr>
+    <td>2023.09.04</td>
+    <td>0141</td>
+    <td><a href="https://leetcode.com/problems/linked-list-cycle/">Linked List Cycle</a></td>
+    <td><a href="src/main/java/leetcode/p0100/p0141/LinkedListCycle.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.09.03</td>
     <td>0062</td>
     <td><a href="https://leetcode.com/problems/unique-paths/">Unique Paths</a></td>
