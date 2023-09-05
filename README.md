@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>September</b></td>
   </tr>
   <tr>
+    <td>2023.09.05</td>
+    <td>0138</td>
+    <td><a href="https://leetcode.com/problems/copy-list-with-random-pointer/">Copy List with Random Pointer</a></td>
+    <td><a href="src/main/java/leetcode/p0100/p0138/CopyListWithRandomPointer.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.09.04</td>
     <td>0141</td>
     <td><a href="https://leetcode.com/problems/linked-list-cycle/">Linked List Cycle</a></td>
