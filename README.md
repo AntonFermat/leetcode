@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>September</b></td>
   </tr>
   <tr>
+    <td>2023.09.06</td>
+    <td>0725</td>
+    <td><a href="https://leetcode.com/problems/split-linked-list-in-parts/">Split Linked List in Parts</a></td>
+    <td><a href="src/main/java/leetcode/p0700/p0725/SplitLinkedListInParts.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.09.05</td>
     <td>0138</td>
     <td><a href="https://leetcode.com/problems/copy-list-with-random-pointer/">Copy List with Random Pointer</a></td>
