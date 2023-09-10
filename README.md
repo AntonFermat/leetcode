@@ -15,7 +15,14 @@ LeetCode
     <td colspan="5"><b>September</b></td>
   </tr>
   <tr>
-    <td>2023.09.08</td>
+    <td>2023.09.10</td>
+    <td>1359</td>
+    <td><a href="https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/">Count All Valid Pickup and Delivery Options</a></td>
+    <td><a href="src/main/java/leetcode/p1300/p1359/CountAllValidPickupAndDeliveryOptions.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
+    <td>2023.09.09</td>
     <td>0377</td>
     <td><a href="https://leetcode.com/problems/combination-sum-iv/">Combination Sum IV</a></td>
     <td><a href="src/main/java/leetcode/p0300/p0377/CombinationSumIV.java">Java</a>
