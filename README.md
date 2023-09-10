@@ -225,6 +225,13 @@ LeetCode
     <td></td>   
   </tr>
   <tr>
+    <td>2023.07.30</td>
+    <td>0664</td>
+    <td><a href="https://leetcode.com/problems/strange-printer/">Strange Printer</a></td>
+    <td><a href="src/main/java/leetcode/p0600/p0664/StrangePrinter.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.07.29</td>
     <td>0808</td>
     <td><a href="https://leetcode.com/problems/soup-servings/">Soup Servings</a></td>
