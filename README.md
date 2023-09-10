@@ -29,6 +29,13 @@ LeetCode
     <td></td>   
   </tr>
   <tr>
+    <td>2023.09.08</td>
+    <td>0118</td>
+    <td><a href="https://leetcode.com/problems/pascals-triangle/"> IV</a></td>
+    <td><a href="src/main/java/leetcode/p0100/p0118/PascalsTriangle.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.09.07</td>
     <td>0092</td>
     <td><a href="https://leetcode.com/problems/reverse-linked-list-ii/">Reverse Linked List II</a></td>
