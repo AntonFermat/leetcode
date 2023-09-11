@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>September</b></td>
   </tr>
   <tr>
+    <td>2023.09.11</td>
+    <td>1282</td>
+    <td><a href="https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/">Group the People Given the Group Size They Belong To</a></td>
+    <td><a href="src/main/java/leetcode/p1200/p1282/README.md">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.09.10</td>
     <td>1359</td>
     <td><a href="https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/">Count All Valid Pickup and Delivery Options</a></td>
@@ -31,7 +38,7 @@ LeetCode
   <tr>
     <td>2023.09.08</td>
     <td>0118</td>
-    <td><a href="https://leetcode.com/problems/pascals-triangle/"> IV</a></td>
+    <td><a href="https://leetcode.com/problems/pascals-triangle/">Pascal's Triangle</a></td>
     <td><a href="src/main/java/leetcode/p0100/p0118/PascalsTriangle.java">Java</a>
     <td></td>   
   </tr>
