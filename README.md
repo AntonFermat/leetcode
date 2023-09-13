@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>September</b></td>
   </tr>
   <tr>
+    <td>2023.09.13</td>
+    <td>0135</td>
+    <td><a href="https://leetcode.com/problems/candy/">Candy</a></td>
+    <td><a href="src/main/java/leetcode/p0100/p0135/Candy.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.09.12</td>
     <td>1647</td>
     <td><a href="https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/">Minimum Deletions to Make Character Frequencies Unique</a></td>
