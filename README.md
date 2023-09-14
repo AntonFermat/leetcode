@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>September</b></td>
   </tr>
   <tr>
+    <td>2023.09.14</td>
+    <td>0332</td>
+    <td><a href="https://leetcode.com/problems/reconstruct-itinerary/">Reconstruct Itinerary</a></td>
+    <td><a href="src/main/java/leetcode/p0300/p0332/ReconstructItinerary.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.09.13</td>
     <td>0135</td>
     <td><a href="https://leetcode.com/problems/candy/">Candy</a></td>
