@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>September</b></td>
   </tr>
   <tr>
+    <td>2023.09.16</td>
+    <td>1631</td>
+    <td><a href="https://leetcode.com/problems/delete-nodes-and-return-forest/">Path With Minimum Effort</a></td>
+    <td><a href="src/main/java/leetcode/p1600/p1631/PathWithMinimumEffort.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.09.14</td>
     <td>0332</td>
     <td><a href="https://leetcode.com/problems/reconstruct-itinerary/">Reconstruct Itinerary</a></td>
