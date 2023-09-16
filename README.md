@@ -22,6 +22,13 @@ LeetCode
     <td></td>   
   </tr>
   <tr>
+    <td>2023.09.15</td>
+    <td>1584</td>
+    <td><a href="https://leetcode.com/problems/min-cost-to-connect-all-points/">Min Cost to Connect All Points</a></td>
+    <td><a href="src/main/java/leetcode/p1500/p1584/MinCostToConnectAllPoints.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.09.14</td>
     <td>0332</td>
     <td><a href="https://leetcode.com/problems/reconstruct-itinerary/">Reconstruct Itinerary</a></td>
