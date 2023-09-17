@@ -15,6 +15,13 @@ LeetCode
     <td colspan="5"><b>September</b></td>
   </tr>
   <tr>
+    <td>2023.09.17</td>
+    <td>0847</td>
+    <td><a href="https://leetcode.com/problems/shortest-path-visiting-all-nodes/">Shortest Path Visiting All Nodes</a></td>
+    <td><a href="src/main/java/leetcode/p0800/p0847/ShortestPathVisitingAllNodes.java">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.09.16</td>
     <td>1631</td>
     <td><a href="https://leetcode.com/problems/delete-nodes-and-return-forest/">Path With Minimum Effort</a></td>
