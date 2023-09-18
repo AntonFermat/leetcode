@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>September</b></td>
   </tr>
   <tr>
+    <td>2023.09.18</td>
+    <td>1337</td>
+    <td><a href="https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/">1337. The K Weakest Rows in a Matrix</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p1300/p1337/TheKWeakestRowsInAMatrix.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p1300/p1337/TheKWeakestRowsInAMatrix.kts">Java</a>
+    <td></td>   
+  </tr>
+  <tr>
     <td>2023.09.17</td>
     <td>0847</td>
     <td><a href="https://leetcode.com/problems/shortest-path-visiting-all-nodes/">Shortest Path Visiting All Nodes</a></td>
