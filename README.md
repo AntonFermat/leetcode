@@ -15,13 +15,21 @@ LeetCode
     <td colspan="5"><b>September</b></td>
   </tr>
   <tr>
-    <td>2023.09.18</td>
-    <td>1337</td>
-    <td><a href="https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/">1337. The K Weakest Rows in a Matrix</a></td>
+    <td>2023.09.19</td>
+    <td>0287</td>
+    <td><a href="https://leetcode.com/problems/find-the-duplicate-number/">Find the Duplicate Number</a></td>
     <td>
         <a href="src/main/java/leetcode/p1300/p1337/TheKWeakestRowsInAMatrix.java">Java</a>
-        <a href="src/main/kotlin/leetcode/p1300/p1337/TheKWeakestRowsInAMatrix.kts">Java</a>
     <td></td>   
+  </tr>
+  <tr>
+    <td>2023.09.18</td>
+    <td>1337</td>
+    <td><a href="https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/">The K Weakest Rows in a Matrix</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p1300/p1337/TheKWeakestRowsInAMatrix.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p1300/p1337/TheKWeakestRowsInAMatrix.kts">Kotlin</a>
+    </td>   
   </tr>
   <tr>
     <td>2023.09.17</td>
