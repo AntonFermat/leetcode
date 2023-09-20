@@ -15,12 +15,20 @@ LeetCode
     <td colspan="5"><b>September</b></td>
   </tr>
   <tr>
+    <td>2023.09.20</td>
+    <td>1658</td>
+    <td><a href="https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/">Minimum Operations to Reduce X to Zero</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p1600/p1658/MinimumOperationsToReduceXToZero.java">Java</a>
+    </td>   
+  </tr>
+  <tr>
     <td>2023.09.19</td>
     <td>0287</td>
     <td><a href="https://leetcode.com/problems/find-the-duplicate-number/">Find the Duplicate Number</a></td>
     <td>
-        <a href="src/main/java/leetcode/p1300/p1337/TheKWeakestRowsInAMatrix.java">Java</a>
-    <td></td>   
+        <a href="src/main/java/leetcode/p0200/p0287/FindTheDuplicateNumber.java">Java</a>
+    </td>   
   </tr>
   <tr>
     <td>2023.09.18</td>
