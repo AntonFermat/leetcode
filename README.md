@@ -15,11 +15,19 @@ LeetCode
     <td colspan="5"><b>September</b></td>
   </tr>
   <tr>
+    <td>2023.09.23</td>
+    <td>1048</td>
+    <td><a href="https://leetcode.com/problems/longest-string-chain/">Longest String Chain</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p1000/p1048/LongestStringChain.java/">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.09.22</td>
     <td>0392</td>
     <td><a href="https://leetcode.com/problems/is-subsequence/">Is Subsequence</a></td>
     <td>
-        <a href="src/main/java/leetcode/p0300/p0392/">Java</a>
+        <a href="src/main/java/leetcode/p0300/p0392/IsSubsequence.java">Java</a>
     </td>   
   </tr>
   <tr>
