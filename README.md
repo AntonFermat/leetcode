@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>September</b></td>
   </tr>
   <tr>
+    <td>2023.09.22</td>
+    <td>0392</td>
+    <td><a href="https://leetcode.com/problems/is-subsequence/">Is Subsequence</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p0300/p0392/">Java</a>
+    </td>   
+  </tr>
+  <tr>
     <td>2023.09.20</td>
     <td>1658</td>
     <td><a href="https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/">Minimum Operations to Reduce X to Zero</a></td>
