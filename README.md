@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>September</b></td>
   </tr>
   <tr>
+    <td>2023.09.24</td>
+    <td>0799</td>
+    <td><a href="https://leetcode.com/problems/champagne-tower/">Champagne Tower</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p0700/p0799/ChampagneTower.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.09.23</td>
     <td>1048</td>
     <td><a href="https://leetcode.com/problems/longest-string-chain/">Longest String Chain</a></td>
