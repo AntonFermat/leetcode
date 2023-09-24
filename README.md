@@ -39,6 +39,14 @@ LeetCode
     </td>   
   </tr>
   <tr>
+    <td>2023.09.21</td>
+    <td>0004</td>
+    <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">Median of Two Sorted Arrays</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p0000/p0004/MedianOfTwoSortedArrays.java">Java</a>
+    </td>   
+  </tr>
+  <tr>
     <td>2023.09.20</td>
     <td>1658</td>
     <td><a href="https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/">Minimum Operations to Reduce X to Zero</a></td>
