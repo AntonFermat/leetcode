@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>September</b></td>
   </tr>
   <tr>
+    <td>2023.09.25</td>
+    <td>0389</td>
+    <td><a href="https://leetcode.com/problems/find-the-difference/">Find the Difference</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p0300/p0389/FindTheDifference.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.09.24</td>
     <td>0799</td>
     <td><a href="https://leetcode.com/problems/champagne-tower/">Champagne Tower</a></td>
