@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>September</b></td>
   </tr>
   <tr>
+    <td>2023.09.27</td>
+    <td>0880</td>
+    <td><a href="https://leetcode.com/problems/decoded-string-at-index/">880. Decoded String at Index</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p0800/p0880/DecodedStringAtIndex.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.09.25</td>
     <td>0389</td>
     <td><a href="https://leetcode.com/problems/find-the-difference/">Find the Difference</a></td>
