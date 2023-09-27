@@ -17,9 +17,17 @@ LeetCode
   <tr>
     <td>2023.09.27</td>
     <td>0880</td>
-    <td><a href="https://leetcode.com/problems/decoded-string-at-index/">880. Decoded String at Index</a></td>
+    <td><a href="https://leetcode.com/problems/decoded-string-at-index/">Decoded String at Index</a></td>
     <td>
         <a href="src/main/java/leetcode/p0800/p0880/DecodedStringAtIndex.java">Java</a>
+    </td>
+  </tr>
+  <tr>
+    <td>2023.09.26</td>
+    <td>0316</td>
+    <td><a href="https://leetcode.com/problems/remove-duplicate-letters/">Remove Duplicate Letters</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p0300/p0316/RemoveDuplicateLetters.java">Java</a>
     </td>
   </tr>
   <tr>
