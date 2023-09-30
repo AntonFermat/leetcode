@@ -15,11 +15,19 @@ LeetCode
     <td colspan="5"><b>September</b></td>
   </tr>
   <tr>
+    <td>2023.09.30</td>
+    <td>0456</td>
+    <td><a href="https://leetcode.com/problems/132-pattern/">132 Pattern</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p0400/p0456/Pattern132.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.09.28</td>
     <td>0905</td>
     <td><a href="https://leetcode.com/problems/sort-array-by-parity/">Sort Array By Parity</a></td>
     <td>
-        <a href="src/main/java/leetcode/p0900/p0905">Java</a>
+        <a href="src/main/java/leetcode/p0900/p0905/SortArrayByParity.java">Java</a>
     </td>
   </tr>
   <tr>
