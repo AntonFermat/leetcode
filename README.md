@@ -23,6 +23,14 @@ LeetCode
     </td>
   </tr>
   <tr>
+    <td>2023.09.29</td>
+    <td>0896</td>
+    <td><a href="https://leetcode.com/problems/monotonic-array/">896. Monotonic Array</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p0800/p0896/MonotonicArray.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.09.28</td>
     <td>0905</td>
     <td><a href="https://leetcode.com/problems/sort-array-by-parity/">Sort Array By Parity</a></td>
