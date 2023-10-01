@@ -12,6 +12,17 @@ LeetCode
     <td>Video</td>
   </tr>
   <tr>
+    <td colspan="5"><b>October</b></td>
+  </tr>
+  <tr>
+    <td>2023.10.01</td>
+    <td>0557</td>
+    <td><a href="https://leetcode.com/problems/reverse-words-in-a-string-iii/">Reverse Words in a String III</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p0500/p0557/ReverseWordsInAStringIII.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td colspan="5"><b>September</b></td>
   </tr>
   <tr>
