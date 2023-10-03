@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>October</b></td>
   </tr>
   <tr>
+    <td>2023.10.02</td>
+    <td>2038</td>
+    <td><a href="https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/">Remove Colored Pieces if Both Neighbors are the Same Color</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p2000/p2038/RemoveColoredPiecesIfBothNeighborsAreTheSameColor.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.10.01</td>
     <td>0557</td>
     <td><a href="https://leetcode.com/problems/reverse-words-in-a-string-iii/">Reverse Words in a String III</a></td>
