@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>October</b></td>
   </tr>
   <tr>
+    <td>2023.10.04</td>
+    <td>0706</td>
+    <td><a href="https://leetcode.com/problems/design-hashmap/">Design HashMap</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p0700/p0706/MyHashMap.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.10.03</td>
     <td>1512</td>
     <td><a href="https://leetcode.com/problems/number-of-good-pairs/">Number of Good Pairs</a></td>
