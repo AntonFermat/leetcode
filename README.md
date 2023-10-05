@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>October</b></td>
   </tr>
   <tr>
+    <td>2023.10.05</td>
+    <td>0229</td>
+    <td><a href="https://leetcode.com/problems/majority-element-ii/">Majority Element II</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p0200/p0229/MajorityElementII.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.10.04</td>
     <td>0706</td>
     <td><a href="https://leetcode.com/problems/design-hashmap/">Design HashMap</a></td>
