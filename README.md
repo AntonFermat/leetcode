@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>October</b></td>
   </tr>
   <tr>
+    <td>2023.10.06</td>
+    <td>0343</td>
+    <td><a href="https://leetcode.com/problems/integer-break/">Integer Break</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p0300/p0343/IntegerBreak.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.10.05</td>
     <td>0229</td>
     <td><a href="https://leetcode.com/problems/majority-element-ii/">Majority Element II</a></td>
