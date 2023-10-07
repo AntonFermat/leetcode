@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>October</b></td>
   </tr>
   <tr>
+    <td>2023.10.07</td>
+    <td>1420</td>
+    <td><a href="https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/">1420. Build Array Where You Can Find The Maximum Exactly K Comparisons</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p1400/p1420/Solution.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.10.06</td>
     <td>0343</td>
     <td><a href="https://leetcode.com/problems/integer-break/">Integer Break</a></td>
