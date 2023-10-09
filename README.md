@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>October</b></td>
   </tr>
   <tr>
+    <td>2023.10.09</td>
+    <td>0034</td>
+    <td><a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">Find First and Last Position of Element in Sorted Array</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p0000/p0034/Solution.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.10.08</td>
     <td>1458</td>
     <td><a href="https://leetcode.com/problems/max-dot-product-of-two-subsequences/">1458. Max Dot Product of Two Subsequences</a></td>
