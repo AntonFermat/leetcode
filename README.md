@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>October</b></td>
   </tr>
   <tr>
+    <td>2023.10.10</td>
+    <td>2009</td>
+    <td><a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/">Minimum Number of Operations to Make Array Continuous</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p2000/p2009/Solution.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.10.09</td>
     <td>0034</td>
     <td><a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">Find First and Last Position of Element in Sorted Array</a></td>
