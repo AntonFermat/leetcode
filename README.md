@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>October</b></td>
   </tr>
   <tr>
+    <td>2023.10.11</td>
+    <td>2251</td>
+    <td><a href="https://leetcode.com/problems/number-of-flowers-in-full-bloom/">Number of Flowers in Full Bloom</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p2200/p2251/Solution.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.10.10</td>
     <td>2009</td>
     <td><a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/">Minimum Number of Operations to Make Array Continuous</a></td>
