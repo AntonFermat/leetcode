@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>October</b></td>
   </tr>
   <tr>
+    <td>2023.10.12</td>
+    <td>1095</td>
+    <td><a href="https://leetcode.com/problems/find-in-mountain-array/">Find in Mountain Array</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p1000/p1095/Solution.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.10.11</td>
     <td>2251</td>
     <td><a href="https://leetcode.com/problems/number-of-flowers-in-full-bloom/">Number of Flowers in Full Bloom</a></td>
