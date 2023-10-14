@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>October</b></td>
   </tr>
   <tr>
+    <td>2023.10.14</td>
+    <td>2742</td>
+    <td><a href="https://leetcode.com/problems/painting-the-walls/">Painting the Walls</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p2700/p2742/Solution.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.10.13</td>
     <td>0746</td>
     <td><a href="https://leetcode.com/problems/min-cost-climbing-stairs/">Min Cost Climbing Stairs</a></td>
