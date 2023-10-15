@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>October</b></td>
   </tr>
   <tr>
+    <td>2023.10.15</td>
+    <td>1269</td>
+    <td><a href="https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/">Number of Ways to Stay in the Same Place After Some Steps</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p1200/p1269/Solution.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.10.14</td>
     <td>2742</td>
     <td><a href="https://leetcode.com/problems/painting-the-walls/">Painting the Walls</a></td>
