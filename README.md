@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>October</b></td>
   </tr>
   <tr>
+    <td>2023.10.16</td>
+    <td>0119</td>
+    <td><a href="https://leetcode.com/problems/pascals-triangle-ii/">Pascal's Triangle II</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p0100/p0119/Solution.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.10.15</td>
     <td>1269</td>
     <td><a href="https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/">Number of Ways to Stay in the Same Place After Some Steps</a></td>
