@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>October</b></td>
   </tr>
   <tr>
+    <td>2023.10.17</td>
+    <td>1361</td>
+    <td><a href="https://leetcode.com/problems/validate-binary-tree-nodes/">Validate Binary Tree Nodes</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p1300/p1361/Solution.java/">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.10.16</td>
     <td>0119</td>
     <td><a href="https://leetcode.com/problems/pascals-triangle-ii/">Pascal's Triangle II</a></td>
