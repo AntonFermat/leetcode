@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>October</b></td>
   </tr>
   <tr>
+    <td>2023.10.18</td>
+    <td>2050</td>
+    <td><a href="https://leetcode.com/problems/parallel-courses-iii/">Parallel Courses III</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p2000/p2050/Solution.java/">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.10.17</td>
     <td>1361</td>
     <td><a href="https://leetcode.com/problems/validate-binary-tree-nodes/">Validate Binary Tree Nodes</a></td>
