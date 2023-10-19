@@ -4,11 +4,11 @@ import java.util.HashSet;
 
 public class MaximalNetworkRank {
     public int maximalNetworkRank(int n, int[][] roads) {
-        HashSet<Integer>[] map = new HashSet<>[n];
+        HashSet[] map = new HashSet[n];
         for (var r : roads) {
-            if (map[r[0]] == null) map[r[0]] = new HashSet<>();
+            if (map[r[0]] == null) map[r[0]] = new HashSet<Integer>();
             map[r[0]].add(r[1]);
-            if (map[r[1]] == null) map[r[1]] = new HashSet<>();
+            if (map[r[1]] == null) map[r[1]] = new HashSet<Integer>();
             map[r[1]].add(r[0]);
         }
         int res = 0;
