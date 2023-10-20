@@ -15,12 +15,21 @@ LeetCode
     <td colspan="5"><b>October</b></td>
   </tr>
   <tr>
+    <td>2023.10.20</td>
+    <td>0341</td>
+    <td><a href="https://leetcode.com/problems/flatten-nested-list-iterator/">Flatten Nested List Iterator</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p0300/p0341/NestedIterator.java">Java</a>
+<a href="src/main/kotlin/leetcode/p0300/p0341/NestedIterator.kt">Kotlin</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.10.19</td>
     <td>0844</td>
     <td><a href="https://leetcode.com/problems/backspace-string-compare/">Backspace String Compare</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p0800/p0844/Solution.java/">Java</a>
-<a href="src/main/kotlin/leetcode/p0800/p0844/Solution.kts/">Kotlin</a>
+        <a href="src/main/java/leetcode/p0800/p0844/Solution.java">Java</a>
+<a href="src/main/kotlin/leetcode/p0800/p0844/Solution.kts">Kotlin</a>
     </td>
   </tr>
   <tr>
