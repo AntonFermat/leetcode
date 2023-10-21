@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>October</b></td>
   </tr>
   <tr>
+    <td>2023.10.21</td>
+    <td>1425</td>
+    <td><a href="https://leetcode.com/problems/constrained-subsequence-sum">Constrained Subsequence Sum</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1400/p1425/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p1400/p1425/SolutionKt.kt">Kotlin</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.10.20</td>
     <td>0341</td>
     <td><a href="https://leetcode.com/problems/flatten-nested-list-iterator/">Flatten Nested List Iterator</a></td>
