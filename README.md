@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>October</b></td>
   </tr>
   <tr>
+    <td>2023.10.22</td>
+    <td>1793</td>
+    <td><a href="https://leetcode.com/problems/maximum-score-of-a-good-subarray/">Maximum Score of a Good Subarray</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1700/p1793/Solution.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.10.21</td>
     <td>1425</td>
     <td><a href="https://leetcode.com/problems/constrained-subsequence-sum">Constrained Subsequence Sum</a></td>
