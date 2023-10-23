@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>October</b></td>
   </tr>
   <tr>
+    <td>2023.10.23</td>
+    <td>0342</td>
+    <td><a href="https://leetcode.com/problems/power-of-four/">Power of Four</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p0300/p0342/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p0300/p0342/SolutionKt.kt">Kotlin</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.10.22</td>
     <td>1793</td>
     <td><a href="https://leetcode.com/problems/maximum-score-of-a-good-subarray/">Maximum Score of a Good Subarray</a></td>
