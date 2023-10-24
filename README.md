@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>October</b></td>
   </tr>
   <tr>
+    <td>2023.10.24</td>
+    <td>0342</td>
+    <td><a href="https://leetcode.com/problems/find-largest-value-in-each-tree-row/">Find Largest Value in Each Tree Row</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p0500/p0515/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p0500/p0515/SolutionKt.kt">Kotlin</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.10.23</td>
     <td>0342</td>
     <td><a href="https://leetcode.com/problems/power-of-four/">Power of Four</a></td>
