@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>October</b></td>
   </tr>
   <tr>
+    <td>2023.10.26</td>
+    <td>0823</td>
+    <td><a href="https://leetcode.com/problems/binary-trees-with-factors">Binary Trees With Factors</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p0800/p0823/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p0800/p0823/SolutionKt.kt">Kotlin</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.10.25</td>
     <td>0779</td>
     <td><a href="https://leetcode.com/problems/k-th-symbol-in-grammar/">779. K-th Symbol in Grammar</a></td>
