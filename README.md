@@ -14,6 +14,16 @@ LeetCode
   <tr>
     <td colspan="5"><b>October</b></td>
   </tr>
+
+  <tr>
+    <td>2023.10.27</td>
+    <td>0005</td>
+    <td><a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Palindromic Substring</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p0000/p0005/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p0000/p0005/SolutionKt.kt">Kotlin</a>
+    </td>
+  </tr>
   <tr>
     <td>2023.10.26</td>
     <td>0823</td>
