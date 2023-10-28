@@ -16,6 +16,15 @@ LeetCode
   </tr>
 
   <tr>
+    <td>2023.10.28</td>
+    <td>1220</td>
+    <td><a href="https://leetcode.com/problems/count-vowels-permutation/">Count Vowels Permutation</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1200/p1220/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p1200/p1220/SolutionKt.kt">Kotlin</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.10.27</td>
     <td>0005</td>
     <td><a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Palindromic Substring</a></td>
