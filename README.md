@@ -16,6 +16,15 @@ LeetCode
   </tr>
 
   <tr>
+    <td>2023.10.29</td>
+    <td>0458</td>
+    <td><a href="https://leetcode.com/problems/poor-pigs/">Poor Pigs</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p0400/p0458/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p0400/p0458/SolutionKt.kt">Kotlin</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.10.28</td>
     <td>1220</td>
     <td><a href="https://leetcode.com/problems/count-vowels-permutation/">Count Vowels Permutation</a></td>
