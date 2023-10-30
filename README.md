@@ -14,7 +14,15 @@ LeetCode
   <tr>
     <td colspan="5"><b>October</b></td>
   </tr>
-
+  <tr>
+    <td>2023.10.30</td>
+    <td>1356</td>
+    <td><a href="https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/">Sort Integers by The Number of 1 Bits</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1300/p1356/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p1300/p1356/SolutionKt.kt">Kotlin</a>
+    </td>
+  </tr>
   <tr>
     <td>2023.10.29</td>
     <td>0458</td>
