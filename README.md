@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>October</b></td>
   </tr>
   <tr>
+    <td>2023.10.31</td>
+    <td>2433</td>
+    <td><a href="https://leetcode.com/problems/find-the-original-array-of-prefix-xor/">Find The Original Array of Prefix Xor</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p2400/p2433/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p2400/p2433/SolutionKt.kt">Kotlin</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.10.30</td>
     <td>1356</td>
     <td><a href="https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/">Sort Integers by The Number of 1 Bits</a></td>
