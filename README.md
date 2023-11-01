@@ -12,6 +12,18 @@ LeetCode
     <td>Video</td>
   </tr>
   <tr>
+    <td colspan="5"><b>November</b></td>
+  </tr>
+  <tr>
+    <td>2023.11.01</td>
+    <td>0501</td>
+    <td><a href="https://leetcode.com/problems/find-mode-in-binary-search-tree/">Find Mode in Binary Search Tree</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p0500/p0501/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p0500/p0501/SolutionKt.kt">Kotlin</a>
+    </td>
+  </tr>
+  <tr>
     <td colspan="5"><b>October</b></td>
   </tr>
   <tr>
