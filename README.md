@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
+    <td>2023.11.02</td>
+    <td>2265</td>
+    <td><a href="https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/">Count Nodes Equal to Average of Subtree</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p2200/p2265/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p2200/p2265/SolutionKt.kt">Kotlin</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.11.01</td>
     <td>0501</td>
     <td><a href="https://leetcode.com/problems/find-mode-in-binary-search-tree/">Find Mode in Binary Search Tree</a></td>
