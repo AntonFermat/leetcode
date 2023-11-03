@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
+    <td>2023.11.03</td>
+    <td>1441</td>
+    <td><a href="https://leetcode.com/problems/build-an-array-with-stack-operations/">Build an Array With Stack Operations</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1400/p1441/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p">Kotlin</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.11.02</td>
     <td>2265</td>
     <td><a href="https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/">Count Nodes Equal to Average of Subtree</a></td>
