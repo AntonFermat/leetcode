@@ -15,12 +15,21 @@ LeetCode
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
+    <td>2023.11.04</td>
+    <td>1503</td>
+    <td><a href="https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/">Last Moment Before All Ants Fall Out of a Plank</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1500/p1503/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p1500/p1503/SolutionKt.kt">Kotlin</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.11.03</td>
     <td>1441</td>
     <td><a href="https://leetcode.com/problems/build-an-array-with-stack-operations/">Build an Array With Stack Operations</a></td>
     <td>    
         <a href="src/main/java/leetcode/p1400/p1441/Solution.java">Java</a>
-        <a href="src/main/kotlin/leetcode/p">Kotlin</a>
+        <a href="src/main/kotlin/leetcode/p1400/p1441/SolutionKt.kt">Kotlin</a>
     </td>
   </tr>
   <tr>
