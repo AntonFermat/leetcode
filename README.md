@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
+    <td>2023.11.05</td>
+    <td>1535</td>
+    <td><a href="https://leetcode.com/problems/find-the-winner-of-an-array-game/">Find the Winner of an Array Game</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1500/p1535/Solution.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.11.04</td>
     <td>1503</td>
     <td><a href="https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/">Last Moment Before All Ants Fall Out of a Plank</a></td>
