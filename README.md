@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
+    <td>2023.11.06</td>
+    <td>1845</td>
+    <td><a href="https://leetcode.com/problems/seat-reservation-manager/">Seat Reservation Manager</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1800/p1845/SeatManager.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p1800/p1845/SeatManagerKt.kt">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.11.05</td>
     <td>1535</td>
     <td><a href="https://leetcode.com/problems/find-the-winner-of-an-array-game/">Find the Winner of an Array Game</a></td>
