@@ -15,12 +15,21 @@ LeetCode
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
+    <td>2023.11.07</td>
+    <td>1921</td>
+    <td><a href="https://leetcode.com/problems/eliminate-maximum-number-of-monsters/">Eliminate Maximum Number of Monsters</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1900/p1921/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p1900/p1921/SolutionKt.kt">Kotlin</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.11.06</td>
     <td>1845</td>
     <td><a href="https://leetcode.com/problems/seat-reservation-manager/">Seat Reservation Manager</a></td>
     <td>    
         <a href="src/main/java/leetcode/p1800/p1845/SeatManager.java">Java</a>
-        <a href="src/main/kotlin/leetcode/p1800/p1845/SeatManagerKt.kt">Java</a>
+        <a href="src/main/kotlin/leetcode/p1800/p1845/SeatManagerKt.kt">Kotlin</a>
     </td>
   </tr>
   <tr>
