@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
+    <td>2023.11.08</td>
+    <td>2849</td>
+    <td><a href="">Determine if a Cell Is Reachable at a Given Time</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p2800/p2849/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p2800/p2849/SolutionKt.kt">Kotlin</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.11.07</td>
     <td>1921</td>
     <td><a href="https://leetcode.com/problems/eliminate-maximum-number-of-monsters/">Eliminate Maximum Number of Monsters</a></td>
