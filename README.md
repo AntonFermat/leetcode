@@ -15,9 +15,18 @@ LeetCode
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
+    <td>2023.11.09</td>
+    <td>1759</td>
+    <td><a href="https://leetcode.com/problems/count-number-of-homogenous-substrings/">Count Number of Homogenous Substrings</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1700/p1759/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p1700/p1759/SolutionKt.kt">Kotlin</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.11.08</td>
     <td>2849</td>
-    <td><a href="">Determine if a Cell Is Reachable at a Given Time</a></td>
+    <td><a href="https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/">Determine if a Cell Is Reachable at a Given Time</a></td>
     <td>    
         <a href="src/main/java/leetcode/p2800/p2849/Solution.java">Java</a>
         <a href="src/main/kotlin/leetcode/p2800/p2849/SolutionKt.kt">Kotlin</a>
