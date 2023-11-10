@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
+    <td>2023.11.10</td>
+    <td>1743</td>
+    <td><a href="https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/">Restore the Array From Adjacent Pairs</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1700/p1743/Solution.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.11.09</td>
     <td>1759</td>
     <td><a href="https://leetcode.com/problems/count-number-of-homogenous-substrings/">Count Number of Homogenous Substrings</a></td>
