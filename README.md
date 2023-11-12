@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
+    <td>2023.11.12</td>
+    <td>815</td>
+    <td><a href="https://leetcode.com/problems/bus-routes/">Bus Routes</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p0800/p0815/Solution.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.11.11</td>
     <td>2642</td>
     <td><a href="https://leetcode.com/problems/design-graph-with-shortest-path-calculator/">Design Graph With Shortest Path Calculator</a></td>
