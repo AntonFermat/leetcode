@@ -15,6 +15,14 @@ LeetCode
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
+    <td>2023.11.11</td>
+    <td>2642</td>
+    <td><a href="https://leetcode.com/problems/design-graph-with-shortest-path-calculator/">Design Graph With Shortest Path Calculator</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p2600/p2642/Graph.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.11.10</td>
     <td>1743</td>
     <td><a href="https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/">Restore the Array From Adjacent Pairs</a></td>
