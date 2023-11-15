@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
+    <td>2023.11.14</td>
+    <td>1930</td>
+    <td><a href="https://leetcode.com/problems/unique-length-3-palindromic-subsequences/">Unique Length-3 Palindromic Subsequences</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1900/p1930/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p1900/p1930/SolutionKt.kt">Kotlin</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.11.12</td>
     <td>815</td>
     <td><a href="https://leetcode.com/problems/bus-routes/">Bus Routes</a></td>
