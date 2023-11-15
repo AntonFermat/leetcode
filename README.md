@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
+    <td>2023.11.15</td>
+    <td>1846</td>
+    <td><a href="">Maximum Element After Decreasing and Rearranging</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1800/p1846/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p1800/p1846/SolutionKt.kt">Kotlin</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.11.14</td>
     <td>1930</td>
     <td><a href="https://leetcode.com/problems/unique-length-3-palindromic-subsequences/">Unique Length-3 Palindromic Subsequences</a></td>
