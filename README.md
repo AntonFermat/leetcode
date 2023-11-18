@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
+    <td>2023.11.18</td>
+    <td>1838</td>
+    <td><a href="https://leetcode.com/problems/frequency-of-the-most-frequent-element/">Frequency of the Most Frequent Element</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1800/p1838/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p1800/p1838/SolutionKt.kt">Kotlin</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.11.15</td>
     <td>1846</td>
     <td><a href="">Maximum Element After Decreasing and Rearranging</a></td>
