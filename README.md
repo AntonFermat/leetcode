@@ -33,6 +33,15 @@ LeetCode
     </td>
   </tr>
   <tr>
+    <td>2023.11.16</td>
+    <td>1980</td>
+    <td><a href="https://leetcode.com/problems/find-unique-binary-string/">Find Unique Binary String</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1900/p1980/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p1900/p1980/SolutionKt.kt">Kotlin</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.11.15</td>
     <td>1846</td>
     <td><a href="https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/">Maximum Element After Decreasing and Rearranging</a></td>
