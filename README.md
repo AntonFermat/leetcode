@@ -24,6 +24,15 @@ LeetCode
     </td>
   </tr>
   <tr>
+    <td>2023.11.17</td>
+    <td>1877</td>
+    <td><a href="https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/">Minimize Maximum Pair Sum in Array</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1800/p1877/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p1800/p1877/SolutionKt.kt">Kotlin</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.11.15</td>
     <td>1846</td>
     <td><a href="https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/">Maximum Element After Decreasing and Rearranging</a></td>
