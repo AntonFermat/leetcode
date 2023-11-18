@@ -26,7 +26,7 @@ LeetCode
   <tr>
     <td>2023.11.15</td>
     <td>1846</td>
-    <td><a href="">Maximum Element After Decreasing and Rearranging</a></td>
+    <td><a href="https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/">Maximum Element After Decreasing and Rearranging</a></td>
     <td>    
         <a href="src/main/java/leetcode/p1800/p1846/Solution.java">Java</a>
         <a href="src/main/kotlin/leetcode/p1800/p1846/SolutionKt.kt">Kotlin</a>
