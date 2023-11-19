@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
+    <td>2023.11.19</td>
+    <td>1887</td>
+    <td><a href="https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/">Reduction Operations to Make the Array Elements Equal</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1800/p1887/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p1800/p1887/SolutionKt.kt">Kotlin</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.11.18</td>
     <td>1838</td>
     <td><a href="https://leetcode.com/problems/frequency-of-the-most-frequent-element/">Frequency of the Most Frequent Element</a></td>
