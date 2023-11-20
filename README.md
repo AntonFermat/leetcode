@@ -15,12 +15,21 @@ LeetCode
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
+    <td>2023.11.20</td>
+    <td>2391</td>
+    <td><a href="https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/">Minimum Amount of Time to Collect Garbage</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p2300/p2391/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p2300/p2391/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.11.19</td>
     <td>1887</td>
     <td><a href="https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/">Reduction Operations to Make the Array Elements Equal</a></td>
     <td>    
         <a href="src/main/java/leetcode/p1800/p1887/Solution.java">Java</a>
-        <a href="src/main/kotlin/leetcode/p1800/p1887/SolutionKt.kt">Kotlin</a>
+        <a href="src/main/kotlin/leetcode/p1800/p1887/SolutionKt.kt">Kotlin (One liner)</a>
     </td>
   </tr>
   <tr>
@@ -38,7 +47,7 @@ LeetCode
     <td><a href="https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/">Minimize Maximum Pair Sum in Array</a></td>
     <td>    
         <a href="src/main/java/leetcode/p1800/p1877/Solution.java">Java</a>
-        <a href="src/main/kotlin/leetcode/p1800/p1877/SolutionKt.kt">Kotlin</a>
+        <a href="src/main/kotlin/leetcode/p1800/p1877/SolutionKt.kt">Kotlin (One liner)</a>
     </td>
   </tr>
   <tr>
@@ -47,7 +56,7 @@ LeetCode
     <td><a href="https://leetcode.com/problems/find-unique-binary-string/">Find Unique Binary String</a></td>
     <td>    
         <a href="src/main/java/leetcode/p1900/p1980/Solution.java">Java</a>
-        <a href="src/main/kotlin/leetcode/p1900/p1980/SolutionKt.kt">Kotlin</a>
+        <a href="src/main/kotlin/leetcode/p1900/p1980/SolutionKt.kt">Kotlin (One liner)</a>
     </td>
   </tr>
   <tr>
@@ -56,7 +65,7 @@ LeetCode
     <td><a href="https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/">Maximum Element After Decreasing and Rearranging</a></td>
     <td>    
         <a href="src/main/java/leetcode/p1800/p1846/Solution.java">Java</a>
-        <a href="src/main/kotlin/leetcode/p1800/p1846/SolutionKt.kt">Kotlin</a>
+        <a href="src/main/kotlin/leetcode/p1800/p1846/SolutionKt.kt">Kotlin (One liner)</a>
     </td>
   </tr>
   <tr>
