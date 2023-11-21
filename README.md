@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
+    <td>2023.11.21</td>
+    <td>1814</td>
+    <td><a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/">Count Nice Pairs in an Array</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1800/p1814/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p1800/p1814/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.11.20</td>
     <td>2391</td>
     <td><a href="https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/">Minimum Amount of Time to Collect Garbage</a></td>
