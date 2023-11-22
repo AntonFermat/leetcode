@@ -16,6 +16,15 @@ LeetCode
   </tr>
   <tr>
     <td>2023.11.21</td>
+    <td>1424</td>
+    <td><a href="https://leetcode.com/problems/diagonal-traverse-ii/">Diagonal Traverse II</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1400/p1424/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p1400/p1424/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+  </tr>
+  <tr>
+    <td>2023.11.21</td>
     <td>1814</td>
     <td><a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/">Count Nice Pairs in an Array</a></td>
     <td>    
