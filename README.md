@@ -16,6 +16,14 @@ LeetCode
   </tr>
   <tr>
     <td>2023.11.21</td>
+    <td>1630</td>
+    <td><a href="https://leetcode.com/problems/arithmetic-subarrays/">Arithmetic Subarrays</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1600/p1630/Solution.java">Java</a>
+    </td>
+  </tr>
+  <tr>
+    <td>2023.11.21</td>
     <td>1424</td>
     <td><a href="https://leetcode.com/problems/diagonal-traverse-ii/">Diagonal Traverse II</a></td>
     <td>    
