@@ -15,7 +15,16 @@ LeetCode
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
-    <td>2023.11.21</td>
+    <td>2023.11.24</td>
+    <td>1561</td>
+    <td><a href="">Maximum Number of Coins You Can Get</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1600/p1630/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p1600/p1630/Solution.java">Java</a>
+    </td>
+  </tr>
+  <tr>
+    <td>2023.11.23</td>
     <td>1630</td>
     <td><a href="https://leetcode.com/problems/arithmetic-subarrays/">Arithmetic Subarrays</a></td>
     <td>    
@@ -23,7 +32,7 @@ LeetCode
     </td>
   </tr>
   <tr>
-    <td>2023.11.21</td>
+    <td>2023.11.22</td>
     <td>1424</td>
     <td><a href="https://leetcode.com/problems/diagonal-traverse-ii/">Diagonal Traverse II</a></td>
     <td>    

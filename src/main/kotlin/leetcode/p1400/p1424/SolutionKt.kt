@@ -3,7 +3,13 @@ package leetcode.p1400.p1424
 import java.util.*
 
 class SolutionKt {
-    fun findDiagonalOrder(nums: List<List<Int>>): IntArray {
+    fun findDiagonalOrder(nums: List<List<Int>>): IntArray = nums.indices
+        .flatMap { r -> nums[r].indices.map { c -> r to c } }
+        .fold(TreeMap<Int, MutableList<Int>>()) { map, (r, c) ->
+            map.apply { getOrPut(r + c) { mutableListOf() }.add(nums[r][c]) }
+        }.values.flatMap { it.reversed() }.toIntArray()
+
+    fun findDiagonalOrder1(nums: List<List<Int>>): IntArray {
         val q = LinkedList(listOf(0 to 0))
         val res = ArrayList<Int>()
         while (!q.isEmpty()) {
