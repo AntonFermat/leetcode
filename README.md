@@ -15,12 +15,20 @@ LeetCode
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
+    <td>2023.11.25</td>
+    <td>1685</td>
+    <td><a href="https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/">Sum of Absolute Differences in a Sorted Array</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1600/p1685/Solution.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.11.24</td>
     <td>1561</td>
-    <td><a href="">Maximum Number of Coins You Can Get</a></td>
+    <td><a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/">Maximum Number of Coins You Can Get</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p1600/p1630/Solution.java">Java</a>
-        <a href="src/main/java/leetcode/p1600/p1630/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p1500/p1561/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p1500/p1561/SolutionKt.kt">Kotlin (One liner)</a>
     </td>
   </tr>
   <tr>
