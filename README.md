@@ -15,11 +15,20 @@ LeetCode
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
+    <td>2023.11.26</td>
+    <td>1727</td>
+    <td><a href="https://leetcode.com/problems/largest-submatrix-with-rearrangements/">Largest Submatrix With Rearrangements</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1700/p1727/Solution.java">Java</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.11.25</td>
     <td>1685</td>
     <td><a href="https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/">Sum of Absolute Differences in a Sorted Array</a></td>
     <td>    
         <a href="src/main/java/leetcode/p1600/p1685/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p1600/p1685/SolutionKt.kt">Kotlin</a>
     </td>
   </tr>
   <tr>
