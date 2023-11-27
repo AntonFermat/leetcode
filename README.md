@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
+    <td>2023.11.27</td>
+    <td>935</td>
+    <td><a href="https://leetcode.com/problems/knight-dialer/">Knight Dialer</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1700/p1727/Solution.java">Java</a>
+        <a href="src/main/kotlin/leetcode/p1600/p1685/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+  </tr>
+  <tr>
     <td>2023.11.26</td>
     <td>1727</td>
     <td><a href="https://leetcode.com/problems/largest-submatrix-with-rearrangements/">Largest Submatrix With Rearrangements</a></td>
