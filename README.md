@@ -16,12 +16,23 @@ LeetCode
   </tr>
   <tr>
     <td>2023.11.27</td>
-    <td>935</td>
+    <td>2147</td>
+    <td><a href="https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/">Number of Ways to Divide a Long Corridor</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p2100/p2147/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p2100/p2147/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2023.11.27</td>
+    <td>0935</td>
     <td><a href="https://leetcode.com/problems/knight-dialer/">Knight Dialer</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p1700/p1727/Solution.java">Java</a>
-        <a href="src/main/kotlin/leetcode/p1600/p1685/SolutionKt.kt">Kotlin (One liner)</a>
+        <a href="src/main/java/leetcode/p0900/p0935/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p0900/p0935/SolutionKt.kt">Kotlin (One liner)</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.26</td>
@@ -30,24 +41,27 @@ LeetCode
     <td>    
         <a href="src/main/java/leetcode/p1700/p1727/Solution.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.25</td>
     <td>1685</td>
     <td><a href="https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/">Sum of Absolute Differences in a Sorted Array</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p1600/p1685/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p1600/p1685/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p1600/p1685/SolutionKt.kt">Kotlin</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.24</td>
     <td>1561</td>
     <td><a href="https://leetcode.com/problems/maximum-number-of-coins-you-can-get/">Maximum Number of Coins You Can Get</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p1500/p1561/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p1500/p1561/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p1500/p1561/SolutionKt.kt">Kotlin (One liner)</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.23</td>
@@ -56,95 +70,106 @@ LeetCode
     <td>    
         <a href="src/main/java/leetcode/p1600/p1630/Solution.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.22</td>
     <td>1424</td>
     <td><a href="https://leetcode.com/problems/diagonal-traverse-ii/">Diagonal Traverse II</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p1400/p1424/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p1400/p1424/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p1400/p1424/SolutionKt.kt">Kotlin (One liner)</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.21</td>
     <td>1814</td>
     <td><a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/">Count Nice Pairs in an Array</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p1800/p1814/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p1800/p1814/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p1800/p1814/SolutionKt.kt">Kotlin (One liner)</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.20</td>
     <td>2391</td>
     <td><a href="https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/">Minimum Amount of Time to Collect Garbage</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p2300/p2391/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p2300/p2391/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p2300/p2391/SolutionKt.kt">Kotlin (One liner)</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.19</td>
     <td>1887</td>
     <td><a href="https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/">Reduction Operations to Make the Array Elements Equal</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p1800/p1887/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p1800/p1887/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p1800/p1887/SolutionKt.kt">Kotlin (One liner)</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.18</td>
     <td>1838</td>
     <td><a href="https://leetcode.com/problems/frequency-of-the-most-frequent-element/">Frequency of the Most Frequent Element</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p1800/p1838/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p1800/p1838/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p1800/p1838/SolutionKt.kt">Kotlin</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.17</td>
     <td>1877</td>
     <td><a href="https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/">Minimize Maximum Pair Sum in Array</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p1800/p1877/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p1800/p1877/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p1800/p1877/SolutionKt.kt">Kotlin (One liner)</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.16</td>
     <td>1980</td>
     <td><a href="https://leetcode.com/problems/find-unique-binary-string/">Find Unique Binary String</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p1900/p1980/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p1900/p1980/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p1900/p1980/SolutionKt.kt">Kotlin (One liner)</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.15</td>
     <td>1846</td>
     <td><a href="https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/">Maximum Element After Decreasing and Rearranging</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p1800/p1846/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p1800/p1846/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p1800/p1846/SolutionKt.kt">Kotlin (One liner)</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.14</td>
     <td>1930</td>
     <td><a href="https://leetcode.com/problems/unique-length-3-palindromic-subsequences/">Unique Length-3 Palindromic Subsequences</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p1900/p1930/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p1900/p1930/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p1900/p1930/SolutionKt.kt">Kotlin</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.12</td>
-    <td>815</td>
+    <td>0815</td>
     <td><a href="https://leetcode.com/problems/bus-routes/">Bus Routes</a></td>
     <td>    
         <a href="src/main/java/leetcode/p0800/p0815/Solution.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.11</td>
@@ -153,6 +178,7 @@ LeetCode
     <td>    
         <a href="src/main/java/leetcode/p2600/p2642/Graph.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.10</td>
@@ -161,42 +187,47 @@ LeetCode
     <td>    
         <a href="src/main/java/leetcode/p1700/p1743/Solution.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.09</td>
     <td>1759</td>
     <td><a href="https://leetcode.com/problems/count-number-of-homogenous-substrings/">Count Number of Homogenous Substrings</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p1700/p1759/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p1700/p1759/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p1700/p1759/SolutionKt.kt">Kotlin</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.08</td>
     <td>2849</td>
     <td><a href="https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/">Determine if a Cell Is Reachable at a Given Time</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p2800/p2849/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p2800/p2849/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p2800/p2849/SolutionKt.kt">Kotlin</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.07</td>
     <td>1921</td>
     <td><a href="https://leetcode.com/problems/eliminate-maximum-number-of-monsters/">Eliminate Maximum Number of Monsters</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p1900/p1921/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p1900/p1921/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p1900/p1921/SolutionKt.kt">Kotlin</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.06</td>
     <td>1845</td>
     <td><a href="https://leetcode.com/problems/seat-reservation-manager/">Seat Reservation Manager</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p1800/p1845/SeatManager.java">Java</a>
+        <a href="src/main/java/leetcode/p1800/p1845/SeatManager.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p1800/p1845/SeatManagerKt.kt">Kotlin</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.05</td>
@@ -205,42 +236,47 @@ LeetCode
     <td>    
         <a href="src/main/java/leetcode/p1500/p1535/Solution.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.04</td>
     <td>1503</td>
     <td><a href="https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/">Last Moment Before All Ants Fall Out of a Plank</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p1500/p1503/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p1500/p1503/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p1500/p1503/SolutionKt.kt">Kotlin</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.03</td>
     <td>1441</td>
     <td><a href="https://leetcode.com/problems/build-an-array-with-stack-operations/">Build an Array With Stack Operations</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p1400/p1441/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p1400/p1441/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p1400/p1441/SolutionKt.kt">Kotlin</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.02</td>
     <td>2265</td>
     <td><a href="https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/">Count Nodes Equal to Average of Subtree</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p2200/p2265/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p2200/p2265/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p2200/p2265/SolutionKt.kt">Kotlin</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.11.01</td>
     <td>0501</td>
     <td><a href="https://leetcode.com/problems/find-mode-in-binary-search-tree/">Find Mode in Binary Search Tree</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p0500/p0501/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p0500/p0501/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p0500/p0501/SolutionKt.kt">Kotlin</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td colspan="5"><b>October</b></td>
@@ -250,81 +286,90 @@ LeetCode
     <td>2433</td>
     <td><a href="https://leetcode.com/problems/find-the-original-array-of-prefix-xor/">Find The Original Array of Prefix Xor</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p2400/p2433/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p2400/p2433/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p2400/p2433/SolutionKt.kt">Kotlin</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.30</td>
     <td>1356</td>
     <td><a href="https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/">Sort Integers by The Number of 1 Bits</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p1300/p1356/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p1300/p1356/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p1300/p1356/SolutionKt.kt">Kotlin</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.29</td>
     <td>0458</td>
     <td><a href="https://leetcode.com/problems/poor-pigs/">Poor Pigs</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p0400/p0458/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p0400/p0458/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p0400/p0458/SolutionKt.kt">Kotlin</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.28</td>
     <td>1220</td>
     <td><a href="https://leetcode.com/problems/count-vowels-permutation/">Count Vowels Permutation</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p1200/p1220/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p1200/p1220/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p1200/p1220/SolutionKt.kt">Kotlin</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.27</td>
     <td>0005</td>
     <td><a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Palindromic Substring</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p0000/p0005/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p0000/p0005/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p0000/p0005/SolutionKt.kt">Kotlin</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.26</td>
     <td>0823</td>
     <td><a href="https://leetcode.com/problems/binary-trees-with-factors">Binary Trees With Factors</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p0800/p0823/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p0800/p0823/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p0800/p0823/SolutionKt.kt">Kotlin</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.25</td>
     <td>0779</td>
     <td><a href="https://leetcode.com/problems/k-th-symbol-in-grammar/">779. K-th Symbol in Grammar</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p0700/p0779/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p0700/p0779/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p0700/p0779/SolutionKt.kt">Kotlin</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.24</td>
-    <td>515</td>
+    <td>0515</td>
     <td><a href="https://leetcode.com/problems/find-largest-value-in-each-tree-row/">Find Largest Value in Each Tree Row</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p0500/p0515/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p0500/p0515/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p0500/p0515/SolutionKt.kt">Kotlin</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.23</td>
     <td>0342</td>
     <td><a href="https://leetcode.com/problems/power-of-four/">Power of Four</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p0300/p0342/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p0300/p0342/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p0300/p0342/SolutionKt.kt">Kotlin</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.22</td>
@@ -333,33 +378,37 @@ LeetCode
     <td>    
         <a href="src/main/java/leetcode/p1700/p1793/Solution.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.21</td>
     <td>1425</td>
     <td><a href="https://leetcode.com/problems/constrained-subsequence-sum">Constrained Subsequence Sum</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p1400/p1425/Solution.java">Java</a>
+        <a href="src/main/java/leetcode/p1400/p1425/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p1400/p1425/SolutionKt.kt">Kotlin</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.20</td>
     <td>0341</td>
     <td><a href="https://leetcode.com/problems/flatten-nested-list-iterator/">Flatten Nested List Iterator</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p0300/p0341/NestedIterator.java">Java</a>
-<a href="src/main/kotlin/leetcode/p0300/p0341/NestedIterator.kt">Kotlin</a>
+        <a href="src/main/java/leetcode/p0300/p0341/NestedIterator.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p0300/p0341/NestedIterator.kt">Kotlin</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.19</td>
     <td>0844</td>
     <td><a href="https://leetcode.com/problems/backspace-string-compare/">Backspace String Compare</a></td>
     <td>    
-        <a href="src/main/java/leetcode/p0800/p0844/Solution.java">Java</a>
-<a href="src/main/kotlin/leetcode/p0800/p0844/Solution.kts">Kotlin</a>
+        <a href="src/main/java/leetcode/p0800/p0844/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p0800/p0844/Solution.kts">Kotlin</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.18</td>
@@ -368,6 +417,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p2000/p2050/Solution.java/">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.17</td>
@@ -376,6 +426,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p1300/p1361/Solution.java/">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.16</td>
@@ -384,6 +435,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p0100/p0119/Solution.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.15</td>
@@ -392,6 +444,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p1200/p1269/Solution.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.14</td>
@@ -400,6 +453,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p2700/p2742/Solution.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.13</td>
@@ -408,6 +462,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p0700/p0746/Solution.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.12</td>
@@ -416,6 +471,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p1000/p1095/Solution.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.11</td>
@@ -424,6 +480,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p2200/p2251/Solution.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.10</td>
@@ -432,6 +489,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p2000/p2009/Solution.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.09</td>
@@ -440,6 +498,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p0000/p0034/Solution.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.08</td>
@@ -448,6 +507,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p1400/p1458/Solution.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.07</td>
@@ -456,6 +516,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p1400/p1420/Solution.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.06</td>
@@ -464,6 +525,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p0300/p0343/IntegerBreak.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.05</td>
@@ -472,6 +534,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p0200/p0229/MajorityElementII.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.04</td>
@@ -480,6 +543,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p0700/p0706/MyHashMap.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.03</td>
@@ -488,6 +552,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p1500/p1512/NumberOfGoodPairs.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.02</td>
@@ -496,6 +561,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p2000/p2038/RemoveColoredPiecesIfBothNeighborsAreTheSameColor.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.10.01</td>
@@ -504,6 +570,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p0500/p0557/ReverseWordsInAStringIII.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td colspan="5"><b>September</b></td>
@@ -515,6 +582,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p0400/p0456/Pattern132.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.09.29</td>
@@ -523,6 +591,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p0800/p0896/MonotonicArray.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.09.28</td>
@@ -531,6 +600,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p0900/p0905/SortArrayByParity.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.09.27</td>
@@ -539,6 +609,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p0800/p0880/DecodedStringAtIndex.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.09.26</td>
@@ -547,6 +618,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p0300/p0316/RemoveDuplicateLetters.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.09.25</td>
@@ -555,6 +627,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p0300/p0389/FindTheDifference.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.09.24</td>
@@ -563,6 +636,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p0700/p0799/ChampagneTower.java">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.09.23</td>
@@ -571,6 +645,7 @@ LeetCode
     <td>
         <a href="src/main/java/leetcode/p1000/p1048/LongestStringChain.java/">Java</a>
     </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.09.22</td>
@@ -578,7 +653,8 @@ LeetCode
     <td><a href="https://leetcode.com/problems/is-subsequence/">Is Subsequence</a></td>
     <td>
         <a href="src/main/java/leetcode/p0300/p0392/IsSubsequence.java">Java</a>
-    </td>   
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.09.21</td>
@@ -586,7 +662,8 @@ LeetCode
     <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">Median of Two Sorted Arrays</a></td>
     <td>
         <a href="src/main/java/leetcode/p0000/p0004/MedianOfTwoSortedArrays.java">Java</a>
-    </td>   
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.09.20</td>
@@ -594,7 +671,8 @@ LeetCode
     <td><a href="https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/">Minimum Operations to Reduce X to Zero</a></td>
     <td>
         <a href="src/main/java/leetcode/p1600/p1658/MinimumOperationsToReduceXToZero.java">Java</a>
-    </td>   
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.09.19</td>
@@ -602,16 +680,18 @@ LeetCode
     <td><a href="https://leetcode.com/problems/find-the-duplicate-number/">Find the Duplicate Number</a></td>
     <td>
         <a href="src/main/java/leetcode/p0200/p0287/FindTheDuplicateNumber.java">Java</a>
-    </td>   
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.09.18</td>
     <td>1337</td>
     <td><a href="https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/">The K Weakest Rows in a Matrix</a></td>
     <td>
-        <a href="src/main/java/leetcode/p1300/p1337/TheKWeakestRowsInAMatrix.java">Java</a>
+        <a href="src/main/java/leetcode/p1300/p1337/TheKWeakestRowsInAMatrix.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p1300/p1337/TheKWeakestRowsInAMatrix.kts">Kotlin</a>
-    </td>   
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td>2023.09.17</td>
@@ -811,7 +891,7 @@ LeetCode
     <td>0033</td>
     <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in Rotated Sorted Array</a></td>
     <td><a href="src/main/java/leetcode/p0000/p0033/SearchInRotatedSortedArray.java">Java</a>
-    <td></td>   
+    <td></td>
   </tr>
   <tr>
     <td>2023.08.07</td>
