@@ -15,7 +15,17 @@ LeetCode
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
-    <td>2023.11.27</td>
+    <td>2023.11.29</td>
+    <td>0191</td>
+    <td><a href="">Number of 1 Bits</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p0100/p0191/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p0100/p0191/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2023.11.28</td>
     <td>2147</td>
     <td><a href="https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/">Number of Ways to Divide a Long Corridor</a></td>
     <td>    
