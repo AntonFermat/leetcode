@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
+    <td>2023.11.30</td>
+    <td>1611</td>
+    <td><a href="https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/">Minimum One Bit Operations to Make Integers Zero</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1600/p1611/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p1600/p1611/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.11.29</td>
     <td>0191</td>
     <td><a href="">Number of 1 Bits</a></td>
