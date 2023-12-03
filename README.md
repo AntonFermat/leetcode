@@ -12,6 +12,19 @@ LeetCode
     <td>Video</td>
   </tr>
   <tr>
+    <td colspan="5"><b>December</b></td>
+  </tr>
+  <tr>
+    <td>2023.12.01</td>
+    <td>1662</td>
+    <td><a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/">Check If Two String Arrays are Equivalent</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1600/p1662/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p1600/p1662/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td colspan="5"><b>November</b></td>
   </tr>
   <tr>
