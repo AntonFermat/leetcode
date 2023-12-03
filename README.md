@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>December</b></td>
   </tr>
   <tr>
+    <td>2023.12.03</td>
+    <td>1266</td>
+    <td><a href="https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/">Find Words That Can Be Formed by Characters</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1200/p1266/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p1200/p1266/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.12.02</td>
     <td>1160</td>
     <td><a href="https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/">Find Words That Can Be Formed by Characters</a></td>
