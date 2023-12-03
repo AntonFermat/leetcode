@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>December</b></td>
   </tr>
   <tr>
+    <td>2023.12.02</td>
+    <td>1160</td>
+    <td><a href="https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/">Find Words That Can Be Formed by Characters</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1100/p1160/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p1100/p1160/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.12.01</td>
     <td>1662</td>
     <td><a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/">Check If Two String Arrays are Equivalent</a></td>
