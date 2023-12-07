@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>December</b></td>
   </tr>
   <tr>
+    <td>2023.12.06</td>
+    <td>1716</td>
+    <td><a href="https://leetcode.com/problems/calculate-money-in-leetcode-bank/">Calculate Money in Leetcode Bank</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1700/p1716/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p1700/p1716/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.12.03</td>
     <td>1266</td>
     <td><a href="https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/">Find Words That Can Be Formed by Characters</a></td>
