@@ -34,6 +34,16 @@ LeetCode
     <td></td>
   </tr>
   <tr>
+    <td>2023.12.05</td>
+    <td>1688</td>
+    <td><a href="https://leetcode.com/problems/count-of-matches-in-tournament/">Count of Matches in Tournament</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1600/p1688/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p1600/p1688/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.12.04</td>
     <td>2264</td>
     <td><a href="https://leetcode.com/problems/largest-3-same-digit-number-in-string/">Largest 3-Same-Digit Number in String</a></td>
