@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>December</b></td>
   </tr>
   <tr>
+    <td>2023.12.07</td>
+    <td>1903</td>
+    <td><a href="https://leetcode.com/problems/largest-odd-number-in-string/">Largest Odd Number in String</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1900/p1903/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p1900/p1903/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td><
+  <tr>
     <td>2023.12.06</td>
     <td>1716</td>
     <td><a href="https://leetcode.com/problems/calculate-money-in-leetcode-bank/">Calculate Money in Leetcode Bank</a></td>
