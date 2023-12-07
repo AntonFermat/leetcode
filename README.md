@@ -34,6 +34,16 @@ LeetCode
     <td></td>
   </tr>
   <tr>
+    <td>2023.12.04</td>
+    <td>2264</td>
+    <td><a href="https://leetcode.com/problems/largest-3-same-digit-number-in-string/">Largest 3-Same-Digit Number in String</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p2200/p2264/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p2200/p2264/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.12.03</td>
     <td>1266</td>
     <td><a href="https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/">Find Words That Can Be Formed by Characters</a></td>
