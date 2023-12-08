@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>December</b></td>
   </tr>
   <tr>
+    <td>2023.12.08</td>
+    <td>0606</td>
+    <td><a href="https://leetcode.com/problems/construct-string-from-binary-tree/">Construct String from Binary Tree</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p0600/p0606/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p0600/p0606/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.12.07</td>
     <td>1903</td>
     <td><a href="https://leetcode.com/problems/largest-odd-number-in-string/">Largest Odd Number in String</a></td>
@@ -22,7 +32,8 @@ LeetCode
         <a href="src/main/java/leetcode/p1900/p1903/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p1900/p1903/SolutionKt.kt">Kotlin (One liner)</a>
     </td>
-    <td><
+    <td></td>
+  </tr>
   <tr>
     <td>2023.12.06</td>
     <td>1716</td>
