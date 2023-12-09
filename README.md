@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>December</b></td>
   </tr>
   <tr>
+    <td>2023.12.09</td>
+    <td>0094</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">Binary Tree Inorder Traversal</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p0000/p0094/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p0000/p0094/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.12.08</td>
     <td>0606</td>
     <td><a href="https://leetcode.com/problems/construct-string-from-binary-tree/">Construct String from Binary Tree</a></td>
