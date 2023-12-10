@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>December</b></td>
   </tr>
   <tr>
+    <td>2023.12.10</td>
+    <td>0867</td>
+    <td><a href="https://leetcode.com/problems/transpose-matrix/">Transpose Matrix</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p0800/p0867/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p0800/p0867/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.12.09</td>
     <td>0094</td>
     <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">Binary Tree Inorder Traversal</a></td>
