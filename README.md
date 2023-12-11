@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>December</b></td>
   </tr>
   <tr>
+    <td>2023.12.11</td>
+    <td>1287</td>
+    <td><a href="">Element Appearing More Than 25% In Sorted Array</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1200/p1287/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p1200/p1287/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.12.10</td>
     <td>0867</td>
     <td><a href="https://leetcode.com/problems/transpose-matrix/">Transpose Matrix</a></td>
