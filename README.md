@@ -15,7 +15,17 @@ LeetCode
     <td colspan="5"><b>December</b></td>
   </tr>
   <tr>
-    <td>2023.12.11</td>
+    <td>2023.12.13</td>
+    <td>1582</td>
+    <td><a href="https://leetcode.com/problems/special-positions-in-a-binary-matrix/">Special Positions in a Binary Matrix</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1500/p1582/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p1500/p1582/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2023.12.12</td>
     <td>1464</td>
     <td><a href="https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/">Maximum Product of Two Elements in an Array</a></td>
     <td>    
