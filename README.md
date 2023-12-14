@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>December</b></td>
   </tr>
   <tr>
+    <td>2023.12.14</td>
+    <td>2482</td>
+    <td><a href="https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/">Difference Between Ones and Zeros in Row and Column</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p2400/p2482/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p2400/p2482/SolutionKt.kt">Kotlin</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.12.13</td>
     <td>1582</td>
     <td><a href="https://leetcode.com/problems/special-positions-in-a-binary-matrix/">Special Positions in a Binary Matrix</a></td>
