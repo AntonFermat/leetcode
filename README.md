@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>December</b></td>
   </tr>
   <tr>
+    <td>2023.12.15</td>
+    <td>1436</td>
+    <td><a href="https://leetcode.com/problems/destination-city/">1436. Destination City</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1400/p1436/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p1400/p1436/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.12.14</td>
     <td>2482</td>
     <td><a href="https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/">Difference Between Ones and Zeros in Row and Column</a></td>
