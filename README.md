@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>December</b></td>
   </tr>
   <tr>
+    <td>2023.12.17</td>
+    <td>2353</td>
+    <td><a href="https://leetcode.com/problems/design-a-food-rating-system/">Design a Food Rating System</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p2300/p2353/FoodRatings.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p2300/p2353/FoodRatingsKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.12.16</td>
     <td>0242</td>
     <td><a href="https://leetcode.com/problems/valid-anagram/">Valid Anagram</a></td>
