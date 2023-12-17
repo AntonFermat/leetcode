@@ -15,9 +15,19 @@ LeetCode
     <td colspan="5"><b>December</b></td>
   </tr>
   <tr>
+    <td>2023.12.16</td>
+    <td>0242</td>
+    <td><a href="https://leetcode.com/problems/valid-anagram/">Valid Anagram</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p0200/p0242/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p0200/p0242/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.12.15</td>
     <td>1436</td>
-    <td><a href="https://leetcode.com/problems/destination-city/">1436. Destination City</a></td>
+    <td><a href="https://leetcode.com/problems/destination-city/">Destination City</a></td>
     <td>    
         <a href="src/main/java/leetcode/p1400/p1436/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p1400/p1436/SolutionKt.kt">Kotlin (One liner)</a>
