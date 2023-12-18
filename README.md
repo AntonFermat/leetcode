@@ -15,12 +15,22 @@ LeetCode
     <td colspan="5"><b>December</b></td>
   </tr>
   <tr>
+    <td>2023.12.18</td>
+    <td>1913</td>
+    <td><a href="https://leetcode.com/problems/maximum-product-difference-between-two-pairs/"></a>Maximum Product Difference Between Two Pairs</td>
+    <td>    
+        <a href="src/main/java/leetcode/p1900/p1913/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p1900/p1913/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.12.17</td>
     <td>2353</td>
     <td><a href="https://leetcode.com/problems/design-a-food-rating-system/">Design a Food Rating System</a></td>
     <td>    
         <a href="src/main/java/leetcode/p2300/p2353/FoodRatings.java">Java</a><br/>
-        <a href="src/main/kotlin/leetcode/p2300/p2353/FoodRatingsKt.kt">Kotlin (One liner)</a>
+        <a href="src/main/kotlin/leetcode/p2300/p2353/FoodRatingsKt.kt">Kotlin</a>
     </td>
     <td></td>
   </tr>
