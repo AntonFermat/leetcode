@@ -15,9 +15,19 @@ LeetCode
     <td colspan="5"><b>December</b></td>
   </tr>
   <tr>
+    <td>2023.12.19</td>
+    <td>0661</td>
+    <td><a href="https://leetcode.com/problems/image-smoother/">Image Smoother</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p0600/p0661/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p0600/p0661/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.12.18</td>
     <td>1913</td>
-    <td><a href="https://leetcode.com/problems/maximum-product-difference-between-two-pairs/"></a>Maximum Product Difference Between Two Pairs</td>
+    <td><a href="https://leetcode.com/problems/maximum-product-difference-between-two-pairs/">Maximum Product Difference Between Two Pairs</a></td>
     <td>    
         <a href="src/main/java/leetcode/p1900/p1913/Solution.java">Java</a><br/>
         <a href="src/main/kotlin/leetcode/p1900/p1913/SolutionKt.kt">Kotlin (One liner)</a>
