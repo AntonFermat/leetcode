@@ -16,6 +16,16 @@ LeetCode
   </tr>
   <tr>
     <td>2023.12.19</td>
+    <td>2706</td>
+    <td><a href="https://leetcode.com/problems/buy-two-chocolates/">Buy Two Chocolates</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p2700/p2706/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p2700/p2706/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2023.12.19</td>
     <td>0661</td>
     <td><a href="https://leetcode.com/problems/image-smoother/">Image Smoother</a></td>
     <td>    
