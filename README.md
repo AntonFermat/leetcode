@@ -15,7 +15,17 @@ LeetCode
     <td colspan="5"><b>December</b></td>
   </tr>
   <tr>
-    <td>2023.12.19</td>
+    <td>2023.12.21</td>
+    <td>1637</td>
+    <td><a href="https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/">1637. Widest Vertical Area Between Two Points Containing No Points</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1600/p1637/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p1600/p1637/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2023.12.20</td>
     <td>2706</td>
     <td><a href="https://leetcode.com/problems/buy-two-chocolates/">Buy Two Chocolates</a></td>
     <td>    
