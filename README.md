@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>December</b></td>
   </tr>
   <tr>
+    <td>2023.12.22</td>
+    <td>1422</td>
+    <td><a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/">1422. Maximum Score After Splitting a String</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1400/p1422/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p1400/p1422/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.12.21</td>
     <td>1637</td>
     <td><a href="https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/">1637. Widest Vertical Area Between Two Points Containing No Points</a></td>
