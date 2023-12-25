@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>December</b></td>
   </tr>
   <tr>
+    <td>2023.12.25</td>
+    <td>0091</td>
+    <td><a href="https://leetcode.com/problems/decode-ways/">Decode Ways</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p0000/p0091/Solution.java">Java</a><br/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.12.23</td>
     <td>1496</td>
     <td><a href="https://leetcode.com/problems/path-crossing/">Path Crossing</a></td>
