@@ -24,6 +24,16 @@ LeetCode
     <td></td>
   </tr>
   <tr>
+    <td>2023.12.24</td>
+    <td>1758</td>
+    <td><a href="https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/">Minimum Changes To Make Alternating Binary String</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1700/p1758/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p1700/p1758/SolutionKt.kt">Kotlin</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.12.23</td>
     <td>1496</td>
     <td><a href="https://leetcode.com/problems/path-crossing/">Path Crossing</a></td>
