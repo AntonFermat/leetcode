@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>December</b></td>
   </tr>
   <tr>
+    <td>2023.12.28</td>
+    <td>1531</td>
+    <td><a href="https://leetcode.com/problems/string-compression-ii/">String Compression II</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1500/p1531/Solution.java">Java</a><br/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.12.27</td>
     <td>1578</td>
     <td><a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/">Minimum Time to Make Rope Colorful</a></td>
