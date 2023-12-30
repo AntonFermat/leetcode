@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>December</b></td>
   </tr>
   <tr>
+    <td>2023.12.30</td>
+    <td>1897</td>
+    <td><a href="https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/">Redistribute Characters to Make All Strings Equal </a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1800/p1897/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p1800/p1897/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2023.12.29</td>
     <td>1335</td>
     <td><a href="https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/">Minimum Difficulty of a Job Schedule</a></td>
