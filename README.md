@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>January</b></td>
   </tr>
   <tr>
+    <td>2024.01.03</td>
+    <td>2125</td>
+    <td><a href="https://leetcode.com/problems/number-of-laser-beams-in-a-bank/">2125. Number of Laser Beams in a Bank</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p2100/p2125/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p2100/p2125/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2024.01.02</td>
     <td>2610</td>
     <td><a href="https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/">Convert an Array Into a 2D Array With Conditions</a></td>
