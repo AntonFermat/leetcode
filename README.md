@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>January</b></td>
   </tr>
   <tr>
+    <td>2024.01.04</td>
+    <td>2870</td>
+    <td><a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/">Minimum Number of Operations to Make Array Empty</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p2800/p2870/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p2800/p2870/SolutionKt.kt">Kotlin (One liner)</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2024.01.03</td>
     <td>2125</td>
     <td><a href="https://leetcode.com/problems/number-of-laser-beams-in-a-bank/">2125. Number of Laser Beams in a Bank</a></td>
