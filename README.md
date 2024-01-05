@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>January</b></td>
   </tr>
   <tr>
+    <td>2024.01.05</td>
+    <td>0300</td>
+    <td><a href="https://leetcode.com/problems/longest-increasing-subsequence/">Longest Increasing Subsequence</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p0300/p0300/Solution.java">Java</a><br/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2024.01.04</td>
     <td>2870</td>
     <td><a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/">Minimum Number of Operations to Make Array Empty</a></td>
