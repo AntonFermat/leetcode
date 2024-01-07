@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>January</b></td>
   </tr>
   <tr>
+    <td>2024.01.07</td>
+    <td>0446</td>
+    <td><a href="https://leetcode.com/problems/arithmetic-slices-ii-subsequence/">Arithmetic Slices II - Subsequence</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p0400/p0446/Solution.java">Java</a><br/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2024.01.06</td>
     <td>1235</td>
     <td><a href="https://leetcode.com/problems/maximum-profit-in-job-scheduling/">Maximum Profit in Job Scheduling</a></td>
