@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>January</b></td>
   </tr>
   <tr>
+    <td>2024.01.08</td>
+    <td>0938</td>
+    <td><a href="https://leetcode.com/problems/range-sum-of-bst/">Range Sum of BST</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p0900/p0938/Solution.java">Java</a><br/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2024.01.07</td>
     <td>0446</td>
     <td><a href="https://leetcode.com/problems/arithmetic-slices-ii-subsequence/">Arithmetic Slices II - Subsequence</a></td>
