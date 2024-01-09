@@ -1,5 +1,7 @@
 package leetcode.p0000.p0095;
 
+import leetcode.TreeNode;
+
 import java.util.*;
 
 public class UniqueBinarySearchTreesII {
@@ -26,24 +28,5 @@ public class UniqueBinarySearchTreesII {
             }
         }
         return res;
-    }
-
-    private static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
     }
 }

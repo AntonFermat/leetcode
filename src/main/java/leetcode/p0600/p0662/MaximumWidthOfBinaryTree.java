@@ -1,5 +1,7 @@
 package leetcode.p0600.p0662;
 
+import leetcode.TreeNode;
+
 import java.util.*;
 
 public class MaximumWidthOfBinaryTree {
@@ -18,24 +20,5 @@ public class MaximumWidthOfBinaryTree {
         res = Math.max(res, x - min + 1);
         dfs(node.left, level + 1, x * 2);
         dfs(node.right, level + 1, x * 2 + 1);
-    }
-
-    private static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
     }
 }

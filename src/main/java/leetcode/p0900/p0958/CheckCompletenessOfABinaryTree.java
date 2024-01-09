@@ -1,5 +1,7 @@
 package leetcode.p0900.p0958;
 
+import leetcode.TreeNode;
+
 public class CheckCompletenessOfABinaryTree {
     public boolean isCompleteTree(TreeNode root) {
         height(root, 0);
@@ -33,24 +35,5 @@ public class CheckCompletenessOfABinaryTree {
             }
         }
         return complete(left, level + 1) && complete(right, level + 1);
-    }
-
-    private static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
     }
 }

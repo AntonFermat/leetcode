@@ -1,5 +1,7 @@
 package leetcode.p0100.p0101;
 
+import leetcode.TreeNode;
+
 import java.util.*;
 
 public class SymmetricTree {
@@ -27,25 +29,5 @@ public class SymmetricTree {
         if (left == null && right == null) return true;
         if (left == null || right == null) return false;
         return (left.val == right.val) && recursive(left.left, right.right) && recursive(left.right, right.left);
-    }
-
-
-    private static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
     }
 }

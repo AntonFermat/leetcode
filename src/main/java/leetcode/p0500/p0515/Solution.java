@@ -1,5 +1,7 @@
 package leetcode.p0500.p0515;
 
+import leetcode.TreeNode;
+
 import java.util.*;
 
 public class Solution {
@@ -21,24 +23,5 @@ public class Solution {
             res.add(max);
         }
         return res;
-    }
-
-    private static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
     }
 }

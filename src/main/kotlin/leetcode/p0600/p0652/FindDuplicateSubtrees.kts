@@ -1,3 +1,4 @@
+import leetcode.TreeNode
 import java.util.HashMap
 
 fun findDuplicateSubtrees(root: TreeNode?): List<TreeNode>? {
@@ -13,21 +14,4 @@ fun dfs(node: TreeNode?, map: MutableMap<String, Int>, res: MutableList<TreeNode
     if (count == 1) res.add(node)
     if (count < 2) map[serial] = count + 1
     return serial
-}
-
-class TreeNode {
-    var `val` = 0
-    var left: TreeNode? = null
-    var right: TreeNode? = null
-
-    internal constructor() {}
-    internal constructor(`val`: Int) {
-        this.`val` = `val`
-    }
-
-    internal constructor(`val`: Int, left: TreeNode?, right: TreeNode?) {
-        this.`val` = `val`
-        this.left = left
-        this.right = right
-    }
 }

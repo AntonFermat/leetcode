@@ -1,5 +1,7 @@
 package leetcode.p0600.p0652;
 
+import leetcode.TreeNode;
+
 import java.util.*;
 
 public class FindDuplicateSubtrees {
@@ -17,24 +19,5 @@ public class FindDuplicateSubtrees {
         if (count == 1) res.add(node);
         if (count < 2) map.put(serial, count + 1);
         return serial;
-    }
-
-    private static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
     }
 }

@@ -1,5 +1,7 @@
 package leetcode.p0500.p0501;
 
+import leetcode.TreeNode;
+
 import java.util.*;
 
 public class Solution {
@@ -26,11 +28,5 @@ public class Solution {
         var res = new int[list.size()];
         for (int i = 0; i < list.size(); i++) res[i] = list.get(i);
         return res;
-    }
-
-    private static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
     }
 }

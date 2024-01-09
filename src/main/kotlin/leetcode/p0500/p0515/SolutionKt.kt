@@ -1,5 +1,6 @@
 package leetcode.p0500.p0515
 
+import leetcode.TreeNode
 import java.util.*
 import kotlin.math.max
 
@@ -20,10 +21,5 @@ class SolutionKt {
             res.add(max)
         }
         return res
-    }
-
-    class TreeNode(var `val`: Int) {
-        var left: TreeNode? = null
-        var right: TreeNode? = null
     }
 }

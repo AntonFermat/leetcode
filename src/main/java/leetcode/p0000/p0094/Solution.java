@@ -1,5 +1,7 @@
 package leetcode.p0000.p0094;
 
+import leetcode.TreeNode;
+
 import java.util.*;
 
 public class Solution {
@@ -9,11 +11,5 @@ public class Solution {
         res.add(root.val);
         res.addAll(inorderTraversal(root.right));
         return res;
-    }
-
-    private static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
     }
 }

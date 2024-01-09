@@ -1,6 +1,8 @@
 package leetcode.p1300.p1372;
 
 
+import leetcode.TreeNode;
+
 public class LongestZigZagPathInABinaryTree {
     public int longestZigZag(TreeNode root) {
         dfs(root, 0, 0);
@@ -21,25 +23,6 @@ public class LongestZigZagPathInABinaryTree {
         } else {
             dfs(node.left, -1, 0);
             dfs(node.right, 1, 0);
-        }
-    }
-
-    private static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
         }
     }
 }

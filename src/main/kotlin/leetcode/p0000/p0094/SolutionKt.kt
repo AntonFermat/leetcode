@@ -1,5 +1,7 @@
 package leetcode.p0000.p0094
 
+import leetcode.TreeNode
+
 class SolutionKt {
     fun inorderTraversal(root: TreeNode?): List<Int> = root?.let {
         buildList {
@@ -8,9 +10,4 @@ class SolutionKt {
             addAll(inorderTraversal(root.right))
         }
     } ?: run { emptyList() }
-
-    class TreeNode(var `val`: Int) {
-        var left: TreeNode? = null
-        var right: TreeNode? = null
-    }
 }

@@ -1,5 +1,7 @@
 package leetcode.p0800.p0863;
 
+import leetcode.TreeNode;
+
 import java.util.*;
 
 public class AllNodesDistanceKInBinaryTree {
@@ -46,24 +48,5 @@ public class AllNodesDistanceKInBinaryTree {
             k--;
         }
         return res;
-    }
-
-    private static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
     }
 }

@@ -1,5 +1,7 @@
 package leetcode.p2200.p2265
 
+import leetcode.TreeNode
+
 class SolutionKt {
     var res = 0
 
@@ -25,10 +27,5 @@ class SolutionKt {
         }
         if (sum / count == node.`val`) res++
         return intArrayOf(sum, count)
-    }
-
-    class TreeNode(var `val`: Int) {
-        var left: TreeNode? = null
-        var right: TreeNode? = null
     }
 }

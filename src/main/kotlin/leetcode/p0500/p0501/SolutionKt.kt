@@ -1,5 +1,6 @@
 package leetcode.p0500.p0501
 
+import leetcode.TreeNode
 import java.util.*
 
 class SolutionKt {
@@ -26,10 +27,5 @@ class SolutionKt {
         val res = IntArray(list.size)
         for (i in list.indices) res[i] = list[i]
         return res
-    }
-
-    class TreeNode(var `val`: Int) {
-        var left: TreeNode? = null
-        var right: TreeNode? = null
     }
 }

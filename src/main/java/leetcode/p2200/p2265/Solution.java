@@ -1,5 +1,7 @@
 package leetcode.p2200.p2265;
 
+import leetcode.TreeNode;
+
 public class Solution {
     private int res = 0;
 
@@ -16,12 +18,5 @@ public class Solution {
         var count = 1 + left[1] + right[1];
         if (node.val == sum / count) res++;
         return new int[]{sum, count};
-    }
-
-
-    private static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
     }
 }

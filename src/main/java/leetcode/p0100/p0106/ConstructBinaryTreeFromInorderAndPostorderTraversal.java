@@ -1,5 +1,7 @@
 package leetcode.p0100.p0106;
 
+import leetcode.TreeNode;
+
 import java.util.*;
 
 public class ConstructBinaryTreeFromInorderAndPostorderTraversal {
@@ -22,24 +24,5 @@ public class ConstructBinaryTreeFromInorderAndPostorderTraversal {
         node.left = buildTree(postorder, l, map.get(val) - 1, map);
 
         return node;
-    }
-
-    private static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
     }
 }

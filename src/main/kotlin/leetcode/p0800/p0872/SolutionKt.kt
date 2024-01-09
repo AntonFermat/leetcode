@@ -1,5 +1,7 @@
 package leetcode.p0800.p0872
 
+import leetcode.TreeNode
+
 class SolutionKt {
     fun leafSimilar(root1: TreeNode?, root2: TreeNode?): Boolean {
         val q1 = ArrayDeque(listOf(root1))
@@ -24,10 +26,5 @@ class SolutionKt {
             if (node1?.left != null) q1.addFirst(node1.left)
         }
         return q2.isEmpty()
-    }
-
-    class TreeNode(var `val`: Int) {
-        var left: TreeNode? = null
-        var right: TreeNode? = null
     }
 }

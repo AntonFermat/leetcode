@@ -1,5 +1,7 @@
 package leetcode.p0500.p0530;
 
+import leetcode.TreeNode;
+
 import java.util.*;
 
 public class MinimumAbsoluteDifferenceInBST {
@@ -18,30 +20,10 @@ public class MinimumAbsoluteDifferenceInBST {
         return res;
     }
 
-
     private void add(TreeNode root, PriorityQueue<Integer> q) {
         if (root == null) return;
         q.add(root.val);
         add(root.left, q);
         add(root.right, q);
-    }
-
-    private static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
     }
 }

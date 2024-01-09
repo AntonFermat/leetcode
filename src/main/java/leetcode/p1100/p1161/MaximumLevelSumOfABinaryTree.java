@@ -1,5 +1,7 @@
 package leetcode.p1100.p1161;
 
+import leetcode.TreeNode;
+
 import java.util.Arrays;
 
 public class MaximumLevelSumOfABinaryTree {
@@ -27,24 +29,5 @@ public class MaximumLevelSumOfABinaryTree {
         sum[level] += node.val;
         helper(node.left, level + 1);
         helper(node.right, level + 1);
-    }
-
-    private static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
     }
 }

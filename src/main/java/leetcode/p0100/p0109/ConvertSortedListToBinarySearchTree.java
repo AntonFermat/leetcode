@@ -1,5 +1,7 @@
 package leetcode.p0100.p0109;
 
+import leetcode.TreeNode;
+
 public class ConvertSortedListToBinarySearchTree {
     public TreeNode sortedListToBST(ListNode head) {
         if (head == null) return null;
@@ -36,24 +38,4 @@ public class ConvertSortedListToBinarySearchTree {
             this.next = next;
         }
     }
-
-    private static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
-    }
-
 }
