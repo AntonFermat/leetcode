@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>January</b></td>
   </tr>
   <tr>
+    <td>2024.01.09</td>
+    <td>0872</td>
+    <td><a href="https://leetcode.com/problems/leaf-similar-trees/">Leaf-Similar Trees</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p0800/p0872/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p0800/p0872/SolutionKt.kt">Kotlin</a><br/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2024.01.08</td>
     <td>0938</td>
     <td><a href="https://leetcode.com/problems/range-sum-of-bst/">Range Sum of BST</a></td>
