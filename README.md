@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>January</b></td>
   </tr>
   <tr>
+    <td>2024.01.11</td>
+    <td>1026</td>
+    <td><a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/">Maximum Difference Between Node and Ancestor</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1000/p1026/Solution.java">Java</a><br/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2024.01.10</td>
     <td>2385</td>
     <td><a href="https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/">Amount of Time for Binary Tree to Be Infected</a></td>
