@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>January</b></td>
   </tr>
   <tr>
+    <td>2024.01.12</td>
+    <td>1704</td>
+    <td><a href="https://leetcode.com/problems/determine-if-string-halves-are-alike/">Determine if String Halves Are Alike</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1700/p1704/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p1700/p1704/SolutionKt.kt">Kotlin (One liner)</a><br/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2024.01.11</td>
     <td>1026</td>
     <td><a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/">Maximum Difference Between Node and Ancestor</a></td>
