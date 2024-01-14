@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>January</b></td>
   </tr>
   <tr>
+    <td>2024.01.13</td>
+    <td>1347</td>
+    <td><a href="https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/">Minimum Number of Steps to Make Two Strings Anagram</a></td>
+    <td>    
+        <a href="src/main/java/leetcode/p1300/p1347/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p1300/p1347/SolutionKt.kt">Kotlin (One liner)</a><br/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2024.01.12</td>
     <td>1704</td>
     <td><a href="https://leetcode.com/problems/determine-if-string-halves-are-alike/">Determine if String Halves Are Alike</a></td>
