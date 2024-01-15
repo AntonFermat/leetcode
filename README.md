@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>January</b></td>
   </tr>
   <tr>
+    <td>2024.01.15</td>
+    <td>2225</td>
+    <td><a href="https://leetcode.com/problems/find-players-with-zero-or-one-losses/">Find Players With Zero or One Losses</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p2200/p2225/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p2200/p2225/SolutionKt.kt">Kotlin</a><br/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2024.01.14</td>
     <td>1657</td>
     <td><a href="https://leetcode.com/problems/determine-if-two-strings-are-close/">Determine if Two Strings Are Close</a></td>

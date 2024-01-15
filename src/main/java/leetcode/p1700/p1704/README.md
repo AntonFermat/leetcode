@@ -1,4 +1,4 @@
-<h2><a href="">1704. Determine if String Halves Are Alike</a></h2>
+<h2><a href="https://leetcode.com/problems/determine-if-string-halves-are-alike/">1704. Determine if String Halves Are Alike</a></h2>
 <h3>Easy</h3>
 <p>You are given a string <code>s</code> of even length. Split this string into two halves of equal lengths, and let <code>a</code> be the first half and <code>b</code> be the second half.</p>
 
