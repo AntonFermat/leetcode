@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>January</b></td>
   </tr>
   <tr>
+    <td>2024.01.16</td>
+    <td>0380</td>
+    <td><a href="https://leetcode.com/problems/insert-delete-getrandom-o1/">Insert Delete GetRandom O(1)</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p0300/p0380/RandomizedSet.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p0300/p0380/RandomizedSetKt.kt">Kotlin</a><br/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2024.01.15</td>
     <td>2225</td>
     <td><a href="https://leetcode.com/problems/find-players-with-zero-or-one-losses/">Find Players With Zero or One Losses</a></td>
