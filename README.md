@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>January</b></td>
   </tr>
   <tr>
+    <td>2024.01.17</td>
+    <td>1207</td>
+    <td><a href="https://leetcode.com/problems/unique-number-of-occurrences/">1207. Unique Number of Occurrences</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p1200/p1207/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p1200/p1207/SolutionKt.kt">Kotlin (One liner)</a><br/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2024.01.16</td>
     <td>0380</td>
     <td><a href="https://leetcode.com/problems/insert-delete-getrandom-o1/">Insert Delete GetRandom O(1)</a></td>
