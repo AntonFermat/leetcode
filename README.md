@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>January</b></td>
   </tr>
   <tr>
+    <td>2024.01.19</td>
+    <td>0931</td>
+    <td><a href="https://leetcode.com/problems/minimum-falling-path-sum/">Minimum Falling Path Sum</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p0900/p0931/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p0900/p0931/SolutionKt.kt">Kotlin</a><br/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2024.01.17</td>
     <td>1207</td>
     <td><a href="https://leetcode.com/problems/unique-number-of-occurrences/">1207. Unique Number of Occurrences</a></td>
