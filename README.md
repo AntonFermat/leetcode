@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>January</b></td>
   </tr>
   <tr>
+    <td>2024.01.21</td>
+    <td>0198</td>
+    <td><a href="https://leetcode.com/problems/house-robber/">House Robber</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p0100/p0198/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p0100/p0198/SolutionKt.kt">Kotlin (One liner)</a><br/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2024.01.19</td>
     <td>0931</td>
     <td><a href="https://leetcode.com/problems/minimum-falling-path-sum/">Minimum Falling Path Sum</a></td>
