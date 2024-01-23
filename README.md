@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>January</b></td>
   </tr>
   <tr>
+    <td>2024.01.23</td>
+    <td>1239</td>
+    <td><a href="https://leetcode.com/problems/set-mismatch/">Maximum Length of a Concatenated String with Unique Characters</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p1200/p1239/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p1200/p1239/SolutionKt.kt">Kotlin</a><br/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2024.01.22</td>
     <td>0645</td>
     <td><a href="https://leetcode.com/problems/set-mismatch/">Set Mismatch</a></td>
