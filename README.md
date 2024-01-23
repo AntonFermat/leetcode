@@ -15,6 +15,16 @@ LeetCode
     <td colspan="5"><b>January</b></td>
   </tr>
   <tr>
+    <td>2024.01.22</td>
+    <td>0645</td>
+    <td><a href="https://leetcode.com/problems/set-mismatch/">Set Mismatch</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p0600/p0645/Solution.java">Java</a><br/>
+        <a href="src/main/kotlin/leetcode/p0600/p0645/SolutionKt.kt">Kotlin</a><br/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2024.01.21</td>
     <td>0198</td>
     <td><a href="https://leetcode.com/problems/house-robber/">House Robber</a></td>
