@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>January</b></td>
   </tr>
   <tr>
+    <td>2024.01.24</td>
+    <td>1457</td>
+    <td><a href="https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/">Pseudo-Palindromic Paths in a Binary Tree</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p1400/p1457/Solution.java">Java</a><br/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2024.01.23</td>
     <td>1239</td>
     <td><a href="https://leetcode.com/problems/set-mismatch/">Maximum Length of a Concatenated String with Unique Characters</a></td>
