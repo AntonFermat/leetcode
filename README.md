@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>January</b></td>
   </tr>
   <tr>
+    <td>2024.01.26</td>
+    <td>0576</td>
+    <td><a href="https://leetcode.com/problems/out-of-boundary-paths/">Out of Boundary Paths</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p0500/p0576/Solution.java">Java</a><br/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2024.01.25</td>
     <td>1143</td>
     <td><a href="https://leetcode.com/problems/longest-common-subsequence/">Longest Common Subsequence</a></td>
