@@ -24,6 +24,15 @@ LeetCode
     <td></td>
   </tr>
   <tr>
+    <td>2024.01.27</td>
+    <td>0629</td>
+    <td><a href="https://leetcode.com/problems/k-inverse-pairs-array/">K Inverse Pairs Array</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p0600/p0629/Solution.java">Java</a><br/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2024.01.26</td>
     <td>0576</td>
     <td><a href="https://leetcode.com/problems/out-of-boundary-paths/">Out of Boundary Paths</a></td>
