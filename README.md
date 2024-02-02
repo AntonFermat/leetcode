@@ -15,6 +15,15 @@ LeetCode
     <td colspan="5"><b>January</b></td>
   </tr>
   <tr>
+    <td>2024.02.02</td>
+    <td>1291</td>
+    <td><a href="https://leetcode.com/problems/sequential-digits/">Sequential Digits</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p1200/p1291/Solution.java">Java</a><br/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2024.01.28</td>
     <td>1074</td>
     <td><a href="https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/">1074. Number of Submatrices That Sum to Target</a></td>
