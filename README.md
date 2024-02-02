@@ -24,6 +24,15 @@ LeetCode
     <td></td>
   </tr>
   <tr>
+    <td>2024.02.01</td>
+    <td>2966</td>
+    <td><a href="https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/">Divide Array Into Arrays With Max Difference</a></td>
+    <td>
+        <a href="src/main/java/leetcode/p2900/p2966/Solution.java">Java</a><br/>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td>2024.01.28</td>
     <td>1074</td>
     <td><a href="https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/">1074. Number of Submatrices That Sum to Target</a></td>
